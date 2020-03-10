@@ -1,5 +1,15 @@
 version: '3'
 services:
+  api:
+    container_name: api
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./api
+    volumes:
+      - "./api:/app"
+    ports:
+      - "5000"
+
   client:
     container_name: client
     build:
