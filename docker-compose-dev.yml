@@ -1,0 +1,35 @@
+version: '3'
+services:
+  client:
+    container_name: client
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./frondend
+    volumes:
+      - "/app/node_modules"
+      - "./frontend:/app"
+    ports:
+      - "3000"
+
+  nginx:
+    container_name: nginx
+    restart: always
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./nginx
+    ports:
+      - "80:80"
+    links:
+      - client
+
+  skinselector_database:
+    image: postgres
+    container_name: skinselector_database
+    volumes:
+      - "/var/lib/postgresql/data"
+    environment:
+      - POSTGRES_DB=skintable
+      - POSTGRES_USER=test
+      - POSTGRES_PASSWORD=Test123!
+    ports:
+      - "5432:5432"
