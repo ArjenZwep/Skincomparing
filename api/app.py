@@ -42,7 +42,7 @@ class Skin(db.Model):
         self.RankingScore = 0
         self.AmountOfWins = 0
         self.AmountOfLosses = 0
-        self.Champion = Champion
+        self.Champion_id = Champion
 
 #note: Alles relationenen wat bij elkaar hoort        
 class Champion(db.Model):
