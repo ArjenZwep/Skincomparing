@@ -32,34 +32,34 @@ class Skin(db.Model):
     RankingScore = db.column(db.Integer)
     AmountOfWins = db.column(db.Integer)
     AmountOfLosses = db.column(db.Integer)
-    #Champion_id = db.Column(db.Integer, db.ForeignKey('champion.id'), nullable=False)
+    Champion_id = db.Column(db.Integer, db.ForeignKey('champion.id'), nullable=False)
 
-    def __init__(self, SkinName, SkinImg, RarityTier, ReleaseDate, RankingScore, AmountOfWins, AmountOfLosses, Champion):
+    def __init__(self, SkinName, SkinImg, RarityTier, Champion):
         self.SkinName = SkinName
         self.SkinImg = SkinImg
         self.RarityTier = RarityTier
-        self.ReleaseDate = ReleaseDate
-        self.RankingScore = RankingScore
-        self.AmountOfWins = AmountOfWins
-        self.AmountOfLosses = AmountOfLosses
+        self.ReleaseDate = datetime.now()
+        self.RankingScore = 0
+        self.AmountOfWins = 0
+        self.AmountOfLosses = 0
         self.Champion = Champion
 
 #note: Alles relationenen wat bij elkaar hoort        
 class Champion(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     ChampName = db.Column(db.String(100), unique=True)
-    #Skins = db.relationship('Skin', backref='champion', lazy=True)
+    Skins = db.relationship('Skin', backref='champion', lazy=True)
     ReleaseDate = db.Column(db.DateTime)
     AmountOfWins = db.Column(db.Integer)
     AmountOfLosses = db.Column(db.Integer)
-    #AmountOfSkins = db.Column(db.Integer)
+    AmountOfSkins = db.Column(db.Integer)
 
     def __init__(self, ChampName):
         self.ChampName = ChampName
         #self.Skins = Skins
         #self.RarityTier = RarityTier
         self.ReleaseDate = datetime.now() #aanpassen, ook score voor standaard score
-        #self.RankingScore = 0
+        self.RankingScore = 0
         self.AmountOfWins = 0
         self.AmountOfLosses = 0
         #self.AmountOfSkins = len(Skins)

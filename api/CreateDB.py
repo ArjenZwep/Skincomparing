@@ -6,3 +6,8 @@ champion_test = Champion('Annie')
 #skin_test
 db.session.add(champion_test)
 db.session.commit()
+
+skin_test = Skin('Annie_classic', 'linkje', 1350, champion_test)
+
+db.session.add(skin_test)
+db.session.commit()
