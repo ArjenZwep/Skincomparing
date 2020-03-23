@@ -25,8 +25,8 @@ ma = Marshmallow(app)
 # Note: still need to make defined catogery's for api
 class Skin(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    SkinName = db.Column(db.String(100), unique=True)
-    SkinImg = db.Column(db.String(100), unique=True)
+    SkinName = db.Column(db.String(100))
+    SkinImg = db.Column(db.String(100))
     RarityTier = db.column(db.String(32))
     ReleaseDate = db.column(db.DateTime)
     RankingScore = db.column(db.Integer)
@@ -47,7 +47,7 @@ class Skin(db.Model):
 #note: Alles relationenen wat bij elkaar hoort        
 class Champion(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    ChampName = db.Column(db.String(100), unique=True)
+    ChampName = db.Column(db.String(100))
     Skins = db.relationship('Skin', backref='champion', lazy=True)
     ReleaseDate = db.Column(db.DateTime)
     AmountOfWins = db.Column(db.Integer)
