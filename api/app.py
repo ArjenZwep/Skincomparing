@@ -1,9 +1,11 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_restful import Resource, Api
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 import os
 from datetime import datetime
+import numpy as np
+#from CRUD import SkinCrud
 
 #Init app and rest
 app = Flask(__name__)
@@ -97,7 +99,42 @@ def index(name, rar):
     
 @app.route('/')
 def hoofd():
-    return '<h1>Hoi Roos</h1>'
+    return render_template(os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'frontend', 'public')) +  '\index.html')
+
+#Loading in the 2 random skindata to reveal
+@app.route('/skin', methods=['GET'])
+def random():
+    number1 = np.random.randint(1, 1050)
+    number2 = np.random.randint(1, 1050)
+    if number1 == number2:
+        number2 += 1
+    skin1 = Skin.query.get(number1)
+    skin2 = Skin.query.get(number2)
+    #book = Book.query.filter_by(title=title).first()
+    #db.session.delete(book)
+    #db.session.commit()
+    return  jsonify([{
+        'ID' : skin1.id,
+        'Skin' : skin1.SkinName, 
+        'Img' : skin1.SkinImg
+    },{ 
+        'ID' : skin2.id,
+        'Skin' : skin2.SkinName, 
+        'Img' : skin2.SkinImg}])
+
+#updating the score after random request
+@app.route('/skin', methods=['POST'])
+def winner():
+    winner = request.json['winnerid']
+    loser = request.json['loserid']
+    skinwin = Skin.query.get(winner)
+    skinloss = Skin.query.get(loser)
+    skinwin.RankingScore += 10
+    skinwin.AmountOfWins += 1
+    skinloss.RankingScore -= 10
+    skinloss.AmountOfLosses -= 10
+    db.session.commit()
 
 if __name__ == '__main__':
     app.run(debug=True)
+

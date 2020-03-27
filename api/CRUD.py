@@ -1,10 +1,15 @@
-from app import app
-import numpy as np
+from flask_restful import Resource
 
-@app.route("/random", methods=["GET", "POST"])
-def random():
-    title = request.form.get("title")
-    book = Book.query.filter_by(title=title).first()
-    db.session.delete(book)
-    db.session.commit()
-    return redirect("/")
+class SkinCrud(Resource):
+    
+    def get(self):
+        pass
+    
+    def post(self):
+        pass
+
+    def put(self):
+        pass
+
+    def delete(self):
+        pass
