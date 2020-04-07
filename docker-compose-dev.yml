@@ -6,9 +6,11 @@ services:
       dockerfile: Dockerfile.dev
       context: ./api
     volumes:
-      - "./api:/app"
+      - "./api:/srv/flask_app"
     ports:
       - "5000"
+    depends_on: 
+      - skinselector_database
 
   client:
     container_name: client
@@ -29,8 +31,9 @@ services:
       context: ./nginx
     ports:
       - "80:80"
-    links:
+    depends_on:
       - client
+      - api
 
   skinselector_database:
     image: postgres

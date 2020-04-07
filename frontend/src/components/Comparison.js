@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Grid, Paper, ThemeProvider, Typography } from '@material-ui/core';
 
@@ -14,8 +14,15 @@ export default function Comparison(props) {
 
 
     // Fetch two championsskins here
-    function getComparison() {
-
+    async function getComparison() {
+        let res = await axios.get("/api/skin");
+        if (res.status===200){
+            console.log(res.data);
+            console.log("Niet gelukt")
+        } else {
+            console.log("Invalid Query");
+        }     
+        console.log("Niet gelukt?")
     }
 
     // Post the winner back to the backend to be stored in the database
@@ -23,6 +30,9 @@ export default function Comparison(props) {
 
     }
 
+    useEffect(() => {
+        getComparison()
+    }, [])
 
 
     return(
