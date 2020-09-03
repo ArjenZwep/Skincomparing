@@ -1,7 +1,5 @@
 # Skincomparing
-For the skin comparing application
-
-https://trello.com/b/qMzeOfaz/firstbuild
+Skin comparing application, in React.js, flask, sqlite, docker.
 
 
 ## Running the app
