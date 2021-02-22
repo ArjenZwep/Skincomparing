@@ -2,7 +2,7 @@ from app import db
 from datetime import datetime
 
 class Skin(db.Model):
-    __tablename__ = 'skins'
+    __tablename__ = 'skin'
 
     id = db.Column(db.Integer, primary_key=True)
     SkinName = db.Column(db.String(100))

@@ -4,6 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from flask_migrate import Migrate
 import os
+import sqlite3
 import numpy as np
 
 import logging
@@ -32,6 +33,15 @@ def create_app():
     from models.Skin import Skin
 
     migrate.init_app(app, db)
+
+    basedir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Sqlite/skinapp.db'))
+
+    # params = parse.quote_plus(os.environ["DB_CONN_STRING"])
+    # db_uri = f"postgresql://test:Test123!@localhost:5432/skintable"
+    db_uri = f"sqlite:///{basedir}'"
+
+    #@app.before_request
+    #def before_request_func():
 
     return app
 
