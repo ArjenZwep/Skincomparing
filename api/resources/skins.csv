@@ -1,0 +1,1097 @@
+id,SkinName,SkinImg,Champion_id
+1,Dark Cosmic Lux,/images/champion/skins/portrait/lux-dark-cosmic.jpg,1
+2,Dark Star Malphite,/images/champion/skins/portrait/malphite-dark-star.jpg,1
+3,Dark Star Malphite Prestige Edition,/images/champion/skins/portrait/malphite-dark-star-prestige-edition.jpg,1
+4,Dark Star Xerath,/images/champion/skins/portrait/xerath-dark-star.jpg,1
+5,Dark Star Mordekaiser,/images/champion/skins/portrait/mordekaiser-dark-star.jpg,1
+6,Talon Blackwood,/images/champion/skins/portrait/talon-blackwood.jpg,1
+7,Taric Luminshield,/images/champion/skins/portrait/taric-luminshield.jpg,1
+8,Twitch Shadowfoot,/images/champion/skins/portrait/twitch-shadowfoot.jpg,1
+9,Blackfrost Rek'Sai,/images/champion/skins/portrait/reksai-blackfrost.jpg,1
+10,Blackfrost Alistar,/images/champion/skins/portrait/alistar-blackfrost.jpg,1
+11,Blackfrost Renekton,/images/champion/skins/portrait/renekton-blackfrost.jpg,1
+12,Hextech Sejuani,/images/champion/skins/portrait/sejuani-hextech.jpg,1
+13,Blood Moon Katarina,/images/champion/skins/portrait/katarina-blood-moon.jpg,1
+14,Blood Moon Master Yi,/images/champion/skins/portrait/master-yi-blood-moon.jpg,1
+15,Blood Moon Tryndamere,/images/champion/skins/portrait/tryndamere-blood-moon.jpg,1
+16,Heartseeker Jinx,/images/champion/skins/portrait/jinx-heartseeker.jpg,1
+17,Heartseeker Yuumi,/images/champion/skins/portrait/yuumi-heartseeker.jpg,1
+18,True Damage Senna Prestige Edition,/images/champion/skins/portrait/senna-true-damage-prestige-edition.jpg,1
+19,Dragonslayer Trundle,/images/champion/skins/portrait/trundle-dragonslayer.jpg,1
+20,Dragonslayer Diana,/images/champion/skins/portrait/diana-dragonslayer.jpg,1
+21,Dragonslayer Olaf,/images/champion/skins/portrait/olaf-dragonslayer.jpg,1
+22,Guardian of the Sands Rengar,/images/champion/skins/portrait/rengar-guardian-of-the-sands.jpg,1
+23,Guardian of the Sands Janna,/images/champion/skins/portrait/janna-guardian-of-the-sands.jpg,1
+24,Guardian of the Sands Ryze,/images/champion/skins/portrait/ryze-guardian-of-the-sands.jpg,1
+25,Mecha Kingdoms Leona,/images/champion/skins/portrait/leona-mecha-kingdoms.jpg,1
+26,Mecha Kingdoms Garen,/images/champion/skins/portrait/garen-mecha-kingdoms.jpg,1
+27,Mecha Kingdoms Garen Prestige Edition,/images/champion/skins/portrait/garen-mecha-kingdoms-prestige-edition.jpg,1
+28,Mecha Kingdoms Draven,/images/champion/skins/portrait/draven-mecha-kingdoms.jpg,1
+29,Mecha Kingdoms Jax,/images/champion/skins/portrait/jax-mecha-kingdoms.jpg,1
+30,Classic Sett,/images/champion/skins/portrait/sett-classic.jpg,1
+31,Mecha Kingdoms Sett,/images/champion/skins/portrait/sett-mecha-kingdoms.jpg,1
+32,Freljord Sylas,/images/champion/skins/portrait/sylas-freljord.jpg,1
+33,Sugar Rush Braum,/images/champion/skins/portrait/braum-sugar-rush.jpg,1
+34,Sugar Rush Ziggs,/images/champion/skins/portrait/ziggs-sugar-rush.jpg,1
+35,Sugar Rush Evelynn,/images/champion/skins/portrait/evelynn-sugar-rush.jpg,1
+36,Sugar Rush Zilean,/images/champion/skins/portrait/zilean-sugar-rush.jpg,1
+37,Nightbringer Aphelios,/images/champion/skins/portrait/aphelios-nightbringer.jpg,1
+38,Nightbringer Vladimir,/images/champion/skins/portrait/vladimir-nightbringer.jpg,1
+39,Nightbringer Soraka,/images/champion/skins/portrait/soraka-nightbringer.jpg,1
+40,Nightbringer Lee Sin,/images/champion/skins/portrait/lee-sin-nightbringer.jpg,1
+41,Nightbringer Lee Sin Prestige Edition,/images/champion/skins/portrait/lee-sin-nightbringer-prestige-edition.jpg,1
+42,Dawnbringer Soraka,/images/champion/skins/portrait/soraka-dawnbringer.jpg,1
+43,Dawnbringer Nidalee,/images/champion/skins/portrait/nidalee-dawnbringer.jpg,1
+44,Dawnbringer Karma,/images/champion/skins/portrait/karma-dawnbringer.jpg,1
+45,Hextech Swain,/images/champion/skins/portrait/swain-hextech.jpg,1
+46,Classic Aphelios,/images/champion/skins/portrait/aphelios-classic.jpg,1
+47,Victorious Aatrox,/images/champion/skins/portrait/aatrox-victorious.jpg,1
+48,Pulsefire Thresh,/images/champion/skins/portrait/thresh-pulsefire.jpg,1
+49,Pulsefire Thresh Prestige Edition,/images/champion/skins/portrait/thresh-pulsefire-prestige-edition.jpg,1
+50,Classic Senna,/images/champion/skins/portrait/senna-classic.jpg,1
+51,True Damage Senna,/images/champion/skins/portrait/senna-true-damage.jpg,1
+52,True Damage Akali,/images/champion/skins/portrait/akali-true-damage.jpg,1
+53,True Damage Ekko,/images/champion/skins/portrait/ekko-true-damage.jpg,1
+54,True Damage Qiyana,/images/champion/skins/portrait/qiyana-true-damage.jpg,1
+55,True Damage Qiyana Prestige Edition,/images/champion/skins/portrait/qiyana-true-damage-prestige-edition.jpg,1
+56,True Damage Yasuo,/images/champion/skins/portrait/yasuo-true-damage.jpg,1
+57,Annie-Versary,/images/champion/skins/portrait/annie-versary.jpg,1
+58,Witch's Brew Blitzcrank,/images/champion/skins/portrait/blitzcrank-witchs-brew.jpg,1
+59,Bewitching Miss Fortune,/images/champion/skins/portrait/miss-fortune-bewitching.jpg,1
+60,Bewitching Miss Fortune Prestige Edition,/images/champion/skins/portrait/miss-fortune-bewitching-prestige-edition.jpg,1
+61,Count Kassadin,/images/champion/skins/portrait/kassadin-count.jpg,1
+62,High Noon Ashe,/images/champion/skins/portrait/ashe-high-noon.jpg,1
+63,High Noon Darius,/images/champion/skins/portrait/darius-high-noon.jpg,1
+64,High Noon Hecarim,/images/champion/skins/portrait/hecarim-high-noon.jpg,1
+65,Hextech Amumu,/images/champion/skins/portrait/amumu-hextech.jpg,1
+66,Majestic Empress Morgana,/images/champion/skins/portrait/morgana-majestic-empress.jpg,1
+67,Splendid Staff Nami,/images/champion/skins/portrait/nami-splendid-staff.jpg,1
+68,Valiant Sword Riven,/images/champion/skins/portrait/riven-valiant-sword.jpg,1
+69,Valiant Sword Riven Prestige Edition,/images/champion/skins/portrait/riven-valiant-sword-prestige-edition.jpg,1
+70,Championship Ryze,/images/champion/skins/portrait/ryze-championship.jpg,1
+71,Star Guardian Neeko,/images/champion/skins/portrait/neeko-star-guardian.jpg,1
+72,Star Guardian Neeko Prestige Edition,/images/champion/skins/portrait/neeko-star-guardian-prestige-edition.jpg,1
+73,Star Guardian Xayah,/images/champion/skins/portrait/xayah-star-guardian.jpg,1
+74,Star Guardian Rakan,/images/champion/skins/portrait/rakan-star-guardian.jpg,1
+75,Star Guardian Zoe,/images/champion/skins/portrait/zoe-star-guardian.jpg,1
+76,Infernal Varus,/images/champion/skins/portrait/varus-infernal.jpg,1
+77,Infernal Shen,/images/champion/skins/portrait/shen-infernal.jpg,1
+78,Infernal Galio,/images/champion/skins/portrait/galio-infernal.jpg,1
+79,Elderwood Ahri,/images/champion/skins/portrait/ahri-elderwood.jpg,1
+80,Elderwood Veigar,/images/champion/skins/portrait/veigar-elderwood.jpg,1
+81,Elderwood Nocturne,/images/champion/skins/portrait/nocturne-elderwood.jpg,1
+82,Dragon Oracle Udyr,/images/champion/skins/portrait/udyr-dragon-oracle.jpg,1
+83,Hextech Rammus,/images/champion/skins/portrait/rammus-hextech.jpg,1
+84,PROJECT: Pyke,/images/champion/skins/portrait/pyke-project.jpg,1
+85,PROJECT: Irelia,/images/champion/skins/portrait/irelia-project.jpg,1
+86,PROJECT: Jinx,/images/champion/skins/portrait/jinx-project.jpg,1
+87,PROJECT: Akali,/images/champion/skins/portrait/akali-project.jpg,1
+88,Arcade Caitlyn Prestige Edition,/images/champion/skins/portrait/caitlyn-arcade-prestige-edition.jpg,1
+89,Dark Star Shaco,/images/champion/skins/portrait/shaco-dark-star.jpg,1
+90,Dark Star Karma,/images/champion/skins/portrait/karma-dark-star.jpg,1
+91,Dark Cosmic Jhin,/images/champion/skins/portrait/jhin-dark-cosmic.jpg,1
+92,Little Demon Tristana,/images/champion/skins/portrait/tristana-little-demon.jpg,1
+93,Battle Academia Ezreal,/images/champion/skins/portrait/ezreal-battle-academia.jpg,1
+94,Battle Academia Lux,/images/champion/skins/portrait/lux-battle-academia.jpg,1
+95,Battle Academia Lux Prestige Edition,/images/champion/skins/portrait/lux-battle-academia-prestige-edition.jpg,1
+96,Battle Academia Jayce,/images/champion/skins/portrait/jayce-battle-academia.jpg,1
+97,Battle Academia Katarina,/images/champion/skins/portrait/katarina-battle-academia.jpg,1
+98,Battle Professor Graves,/images/champion/skins/portrait/graves-battle-professor.jpg,1
+99,Classic Yuumi,/images/champion/skins/portrait/yuumi-classic.jpg,1
+100,Battle Principal Yuumi,/images/champion/skins/portrait/yuumi-battle-principal.jpg,1
+101,Conqueror Alistar,/images/champion/skins/portrait/alistar-conqueror.jpg,1
+102,iG Camille,/images/champion/skins/portrait/camille-invictus-gaming.jpg,1
+103,iG Fiora,/images/champion/skins/portrait/fiora-invictus-gaming.jpg,1
+104,iG Irelia,/images/champion/skins/portrait/irelia-invictus-gaming.jpg,1
+105,iG Kai'Sa,/images/champion/skins/portrait/kaisa-invictus-gaming.jpg,1
+106,iG LeBlanc,/images/champion/skins/portrait/leblanc-invictus-gaming.jpg,1
+107,iG Rakan,/images/champion/skins/portrait/rakan-invictus-gaming.jpg,1
+108,Galaxy Slayer Zed,/images/champion/skins/portrait/zed-galaxy-slayer.jpg,1
+109,K/DA Evelynn Prestige Edition,/images/champion/skins/portrait/evelynn-kda-prestige-edition.jpg,1
+110,Corgi Corki,/images/champion/skins/portrait/corki-corgi.jpg,1
+111,Fuzz Fizz,/images/champion/skins/portrait/fizz-fuzz.jpg,1
+112,Fuzz Fizz Prestige Edition,/images/champion/skins/portrait/fizz-fuzz-prestige-edition.jpg,1
+113,Meowrick,/images/champion/skins/portrait/yorick-meowrick.jpg,1
+114,Pretty Kitty Rengar,/images/champion/skins/portrait/rengar-pretty-kitty.jpg,1
+115,K/DA Ahri Prestige Edition,/images/champion/skins/portrait/ahri-kda-prestige-edition.jpg,1
+116,Arclight Brand,/images/champion/skins/portrait/brand-arclight.jpg,1
+117,Papercraft Anivia,/images/champion/skins/portrait/anivia-papercraft.jpg,1
+118,Heartpiercer Fiora,/images/champion/skins/portrait/fiora-heartpiercer.jpg,1
+119,Heartbreaker Vi,/images/champion/skins/portrait/vi-heartbreaker.jpg,1
+120,Coin Emperor Tahm Kench,/images/champion/skins/portrait/tahm-kench-coin-emperor.jpg,1
+121,Firecracker Sejuani,/images/champion/skins/portrait/sejuani-firecracker.jpg,1
+122,Firecracker Vayne,/images/champion/skins/portrait/vayne-firecracker.jpg,1
+123,Firecracker Vayne Prestige Edition,/images/champion/skins/portrait/vayne-firecracker-prestige-edition.jpg,1
+124,Classic Sylas,/images/champion/skins/portrait/sylas-classic.jpg,1
+125,Lunar Wraith Sylas,/images/champion/skins/portrait/sylas-lunar-wraith.jpg,1
+126,Blood Moon Aatrox,/images/champion/skins/portrait/aatrox-blood-moon.jpg,1
+127,Blood Moon Pyke,/images/champion/skins/portrait/pyke-blood-moon.jpg,1
+128,Blood Moon Sivir,/images/champion/skins/portrait/sivir-blood-moon.jpg,1
+129,Hextech Renekton,/images/champion/skins/portrait/renekton-hextech.jpg,1
+130,Ice King Twitch,/images/champion/skins/portrait/twitch-ice-king.jpg,1
+131,Frozen Prince Mundo,/images/champion/skins/portrait/dr-mundo-frozen-prince.jpg,1
+132,Winter Wonder Soraka,/images/champion/skins/portrait/soraka-winter-wonder.jpg,1
+133,Snow Man Yi,/images/champion/skins/portrait/master-yi-snow-man.jpg,1
+134,K/DA Akali Prestige Edition,/images/champion/skins/portrait/akali-kda-prestige-edition.jpg,1
+135,Classic Neeko,/images/champion/skins/portrait/neeko-classic.jpg,1
+136,Winter Wonder Neeko,/images/champion/skins/portrait/neeko-winter-wonder.jpg,1
+137,Solar Eclipse Leona,/images/champion/skins/portrait/leona-solar-eclipse.jpg,1
+138,Lunar Eclipse Leona,/images/champion/skins/portrait/leona-lunar-eclipse.jpg,1
+139,Coven Camille,/images/champion/skins/portrait/camille-coven.jpg,1
+140,Coven Lissandra,/images/champion/skins/portrait/lissandra-coven.jpg,1
+141,Pajama Guardian Soraka,/images/champion/skins/portrait/soraka-pajama-guardian.jpg,1
+142,Pajama Guardian Miss Fortune,/images/champion/skins/portrait/miss-fortune-pajama-guardian.jpg,1
+143,Pajama Guardian Ezreal,/images/champion/skins/portrait/ezreal-pajama-guardian.jpg,1
+144,Pajama Guardian Lulu,/images/champion/skins/portrait/lulu-pajama-guardian.jpg,1
+145,Pajama Guardian Lux,/images/champion/skins/portrait/lux-pajama-guardian.jpg,1
+146,Program Nami,/images/champion/skins/portrait/nami-program.jpg,1
+147,Program LeBlanc,/images/champion/skins/portrait/leblanc-program.jpg,1
+148,Praetorian Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-praetorian.jpg,1
+149,Praetorian Graves,/images/champion/skins/portrait/graves-praetorian.jpg,1
+150,K/DA Ahri,/images/champion/skins/portrait/ahri-kda.jpg,1
+151,K/DA Akali,/images/champion/skins/portrait/akali-kda.jpg,1
+152,K/DA Kai'Sa,/images/champion/skins/portrait/kaisa-kda.jpg,1
+153,K/DA Evelynn,/images/champion/skins/portrait/evelynn-kda.jpg,1
+154,K/DA Kai'Sa Prestige Edition,/images/champion/skins/portrait/kaisa-kda-prestige-edition.jpg,1
+155,Bewitching Janna,/images/champion/skins/portrait/janna-bewitching.jpg,1
+156,Count Kledula,/images/champion/skins/portrait/kled-count-kledula.jpg,1
+157,Trick or Treat Ekko,/images/champion/skins/portrait/ekko-trick-or-treat.jpg,1
+158,Hextech Malzahar,/images/champion/skins/portrait/malzahar-hextech.jpg,1
+159,Infernal Amumu,/images/champion/skins/portrait/amumu-infernal.jpg,1
+160,Dragon Trainer Heimerdinger,/images/champion/skins/portrait/heimerdinger-dragon-trainer.jpg,1
+161,Championship Kha'Zix,/images/champion/skins/portrait/khazix-championship.jpg,1
+162,Odyssey Jinx,/images/champion/skins/portrait/jinx-odyssey.jpg,1
+163,Odyssey Kayn,/images/champion/skins/portrait/kayn-odyssey.jpg,1
+164,Odyssey Malphite,/images/champion/skins/portrait/malphite-odyssey.jpg,1
+165,Odyssey Sona,/images/champion/skins/portrait/sona-odyssey.jpg,1
+166,Odyssey Yasuo,/images/champion/skins/portrait/yasuo-odyssey.jpg,1
+167,Odyssey Ziggs,/images/champion/skins/portrait/ziggs-odyssey.jpg,1
+168,Divine Sword Irelia,/images/champion/skins/portrait/irelia-divine-sword.jpg,1
+169,Enduring Sword Talon,/images/champion/skins/portrait/talon-enduring-sword.jpg,1
+170,High Noon Lucian,/images/champion/skins/portrait/lucian-high-noon.jpg,1
+171,High Noon Thresh,/images/champion/skins/portrait/thresh-high-noon.jpg,1
+172,High Noon Urgot,/images/champion/skins/portrait/urgot-high-noon.jpg,1
+173,Mafia Braum,/images/champion/skins/portrait/braum-mafia.jpg,1
+174,Cosmic Queen Ashe,/images/champion/skins/portrait/ashe-cosmic-queen.jpg,1
+175,Cosmic Enchantress Lulu,/images/champion/skins/portrait/lulu-cosmic-enchantress.jpg,1
+176,Cosmic Defender Xin Zhao,/images/champion/skins/portrait/xin-zhao-cosmic-defender.jpg,1
+177,Mecha Aurelion Sol,/images/champion/skins/portrait/aurelion-sol-mecha.jpg,1
+178,Pool Party Caitlyn,/images/champion/skins/portrait/caitlyn-pool-party.jpg,1
+179,Pool Party Gangplank,/images/champion/skins/portrait/gangplank-pool-party.jpg,1
+180,Pool Party Zoe,/images/champion/skins/portrait/zoe-pool-party.jpg,1
+181,Hextech Poppy,/images/champion/skins/portrait/poppy-hextech.jpg,1
+182,SSG Ezreal,/images/champion/skins/portrait/ezreal-ssg.jpg,1
+183,SSG Gnar,/images/champion/skins/portrait/gnar-ssg.jpg,1
+184,SSG Jarvan IV,/images/champion/skins/portrait/jarvan-iv-ssg.jpg,1
+185,SSG Rakan,/images/champion/skins/portrait/rakan-ssg.jpg,1
+186,SSG Taliyah,/images/champion/skins/portrait/taliyah-ssg.jpg,1
+187,SSG Xayah,/images/champion/skins/portrait/xayah-ssg.jpg,1
+188,Dark Star Cho'Gath,/images/champion/skins/portrait/chogath-dark-star.jpg,1
+189,God-King Darius,/images/champion/skins/portrait/darius-god-king.jpg,1
+190,God-King Garen,/images/champion/skins/portrait/garen-god-king.jpg,1
+191,Playmaker Lee Sin,/images/champion/skins/portrait/lee-sin-playmaker.jpg,1
+192,Sweeper Rammus,/images/champion/skins/portrait/rammus-sweeper.jpg,1
+193,Dark Waters Diana,/images/champion/skins/portrait/diana-dark-waters.jpg,1
+194,Dark Waters Vladimir,/images/champion/skins/portrait/vladimir-dark-waters.jpg,1
+195,Classic Pyke,/images/champion/skins/portrait/pyke-classic.jpg,1
+196,Sand Wraith Pyke,/images/champion/skins/portrait/pyke-sand-wraith.jpg,1
+197,Pulsefire Riven,/images/champion/skins/portrait/riven-pulsefire.jpg,1
+198,Pulsefire Shen,/images/champion/skins/portrait/shen-pulsefire.jpg,1
+199,Pulsefire Twisted Fate,/images/champion/skins/portrait/twisted-fate-pulsefire.jpg,1
+200,Blood Moon Evelynn,/images/champion/skins/portrait/evelynn-blood-moon.jpg,1
+201,Beemo,/images/champion/skins/portrait/teemo-beemo.jpg,1
+202,Conqueror Varus,/images/champion/skins/portrait/varus-conqueror.jpg,1
+203,Badlands Baron Rumble,/images/champion/skins/portrait/rumble-badlands-baron.jpg,1
+204,Lancer Stratus Wukong,/images/champion/skins/portrait/wukong-lancer-stratus.jpg,1
+205,Pizza Delivery Sivir,/images/champion/skins/portrait/sivir-pizza-delivery.jpg,1
+206,Birdio,/images/champion/skins/portrait/galio-birdio.jpg,1
+207,Hextech Alistar,/images/champion/skins/portrait/alistar-hextech.jpg,1
+208,Gun Goddess Miss Fortune,/images/champion/skins/portrait/miss-fortune-gun-goddess.jpg,1
+209,Resistance Illaoi,/images/champion/skins/portrait/illaoi-resistance.jpg,1
+210,Bullet Angel Kai'Sa,/images/champion/skins/portrait/kaisa-bullet-angel.jpg,1
+211,God Staff Jax,/images/champion/skins/portrait/jax-god-staff.jpg,1
+212,Ambitious Elf Jinx,/images/champion/skins/portrait/jinx-ambitious-elf.jpg,1
+213,Santa Draven,/images/champion/skins/portrait/draven-santa.jpg,1
+214,Snow Fawn Poppy,/images/champion/skins/portrait/poppy-snow-fawn.jpg,1
+215,Hextech Kog'Maw,/images/champion/skins/portrait/kog-maw-hextech.jpg,1
+216,PROJECT: Jhin,/images/champion/skins/portrait/jhin-project.jpg,1
+217,PROJECT: Vayne,/images/champion/skins/portrait/vayne-project.jpg,1
+218,PROJECT: Vi,/images/champion/skins/portrait/vi-project.jpg,1
+219,Cyber Pop Zoe,/images/champion/skins/portrait/zoe-cyber-pop.jpg,1
+220,Victorious Graves,/images/champion/skins/portrait/graves-victorious.jpg,1
+221,Lancer Rogue Blitzcrank,/images/champion/skins/portrait/blitzcrank-lancer-rogue.jpg,1
+222,Lancer Paragon Blitzcrank,/images/champion/skins/portrait/blitzcrank-lancer-paragon.jpg,1
+223,Mecha Rengar,/images/champion/skins/portrait/rengar-mecha.jpg,1
+224,Death Sworn Katarina,/images/champion/skins/portrait/katarina-deathsworn.jpg,1
+225,Death Sworn Viktor,/images/champion/skins/portrait/viktor-deathsworn.jpg,1
+226,Death Sworn Zed,/images/champion/skins/portrait/zed-deathsworn.jpg,1
+227,Super Galaxy Annie,/images/champion/skins/portrait/annie-super-galaxy.jpg,1
+228,Super Galaxy Elise,/images/champion/skins/portrait/elise-super-galaxy.jpg,1
+229,Super Galaxy Gnar,/images/champion/skins/portrait/gnar-super-galaxy.jpg,1
+230,Super Galaxy Nidalee,/images/champion/skins/portrait/nidalee-super-galaxy.jpg,1
+231,Beekeeper Singed,/images/champion/skins/portrait/singed-beekeeper.jpg,1
+232,Soaring Sword Fiora,/images/champion/skins/portrait/fiora-soaring-sword.jpg,1
+233,Sacred Sword Janna,/images/champion/skins/portrait/janna-sacred-sword.jpg,1
+234,Eternal Sword Yi,/images/champion/skins/portrait/master-yi-eternal-sword.jpg,1
+235,Arclight Yorick,/images/champion/skins/portrait/yorick-arclight.jpg,1
+236,Eternum Cassiopeia,/images/champion/skins/portrait/cassiopeia-eternum.jpg,1
+237,Championship Ashe,/images/champion/skins/portrait/ashe-championship.jpg,1
+238,Star Guardian Ahri,/images/champion/skins/portrait/ahri-star-guardian.jpg,1
+239,Star Guardian Ezreal,/images/champion/skins/portrait/ezreal-star-guardian.jpg,1
+240,Star Guardian Miss Fortune,/images/champion/skins/portrait/miss-fortune-star-guardian.jpg,1
+241,Star Guardian Soraka,/images/champion/skins/portrait/soraka-star-guardian.jpg,1
+242,Star Guardian Syndra,/images/champion/skins/portrait/syndra-star-guardian.jpg,1
+243,Neo PAX Sivir,/images/champion/skins/portrait/sivir-neo-pax.jpg,1
+244,Classic Ornn,/images/champion/skins/portrait/ornn-classic.jpg,1
+245,Thunder Lord Ornn,/images/champion/skins/portrait/ornn-thunder-lord.jpg,1
+246,Lancer Zero Hecarim,/images/champion/skins/portrait/hecarim-lancer-zero.jpg,1
+247,Battle Boss Brand,/images/champion/skins/portrait/brand-battle-boss.jpg,1
+248,Battle Boss Malzahar,/images/champion/skins/portrait/malzahar-battle-boss.jpg,1
+249,Battle Boss Ziggs,/images/champion/skins/portrait/ziggs-battle-boss.jpg,1
+250,Omega Squad Fizz,/images/champion/skins/portrait/fizz-omega-squad.jpg,1
+251,Omega Squad Tristana,/images/champion/skins/portrait/tristana-omega-squad.jpg,1
+252,Omega Squad Twitch,/images/champion/skins/portrait/twitch-omega-squad.jpg,1
+253,Omega Squad Veigar,/images/champion/skins/portrait/veigar-omega-squad.jpg,1
+254,Classic Kayn,/images/champion/skins/portrait/kayn-classic.jpg,1
+255,Soulhunter Kayn,/images/champion/skins/portrait/kayn-soulhunter.jpg,1
+256,SKT T1 Ekko,/images/champion/skins/portrait/ekko-skt-t1.jpg,1
+257,SKT T1 Jhin,/images/champion/skins/portrait/jhin-skt-t1.jpg,1
+258,SKT T1 Nami,/images/champion/skins/portrait/nami-skt-t1.jpg,1
+259,SKT T1 Olaf,/images/champion/skins/portrait/olaf-skt-t1.jpg,1
+260,SKT T1 Syndra,/images/champion/skins/portrait/syndra-skt-t1.jpg,1
+261,SKT T1 Zac,/images/champion/skins/portrait/zac-skt-t1.jpg,1
+262,Dawnbringer Riven,/images/champion/skins/portrait/riven-dawnbringer.jpg,1
+263,Nightbringer Yasuo,/images/champion/skins/portrait/yasuo-nightbringer.jpg,1
+264,Chemtech Tryndamere,/images/champion/skins/portrait/tryndamere-chemtech.jpg,1
+265,Pulsefire Caitlyn,/images/champion/skins/portrait/caitlyn-pulsefire.jpg,1
+266,Cosmic Blade Master Yi,/images/champion/skins/portrait/master-yi-cosmic-blade.jpg,1
+267,Conqueror Karma,/images/champion/skins/portrait/karma-conqueror.jpg,1
+268,Classic Xayah,/images/champion/skins/portrait/xayah-classic.jpg,1
+269,Cosmic Dusk Xayah,/images/champion/skins/portrait/xayah-cosmic-dusk.jpg,1
+270,Classic Rakan,/images/champion/skins/portrait/rakan-classic.jpg,1
+271,Cosmic Dawn Rakan,/images/champion/skins/portrait/rakan-cosmic-dawn.jpg,1
+272,Dreadnova Darius,/images/champion/skins/portrait/darius-dreadnova.jpg,1
+273,God Fist Lee Sin,/images/champion/skins/portrait/lee-sin-god-fist.jpg,1
+274,Dark Star Kha'Zix,/images/champion/skins/portrait/khazix-dark-star.jpg,1
+275,Dark Star Orianna,/images/champion/skins/portrait/orianna-dark-star.jpg,1
+276,Moo Cow Alistar,/images/champion/skins/portrait/alistar-moo-cow.jpg,1
+277,Super Kennen,/images/champion/skins/portrait/kennen-super.jpg,1
+278,Pug'Maw,/images/champion/skins/portrait/kogmaw-pugmaw.jpg,1
+279,Renektoy,/images/champion/skins/portrait/renekton-renektoy.jpg,1
+280,Dragonslayer Xin Zhao,/images/champion/skins/portrait/xin-zhao-dragonslayer.jpg,1
+281,Dragon Sorceress Zyra,/images/champion/skins/portrait/zyra-dragon-sorceress.jpg,1
+282,Festival Queen Anivia,/images/champion/skins/portrait/anivia-festival-queen.jpg,1
+283,Blood Moon Diana,/images/champion/skins/portrait/diana-blood-moon.jpg,1
+284,Blood Moon Twisted Fate,/images/champion/skins/portrait/twisted-fate-blood-moon.jpg,1
+285,Blood Moon Jhin,/images/champion/skins/portrait/jhin-blood-moon.jpg,1
+286,Blood Moon Talon,/images/champion/skins/portrait/talon-blood-moon.jpg,1
+287,Heartseeker Lucian,/images/champion/skins/portrait/lucian-heartseeker.jpg,1
+288,Heartseeker Quinn,/images/champion/skins/portrait/quinn-heartseeker.jpg,1
+289,Warring Kingdoms Azir,/images/champion/skins/portrait/azir-warring-kingdoms.jpg,1
+290,Warring Kingdoms Garen,/images/champion/skins/portrait/garen-warring-kingdoms.jpg,1
+291,Warring Kingdoms Vi,/images/champion/skins/portrait/vi-warring-kingdoms.jpg,1
+292,Dreadnova Gangplank,/images/champion/skins/portrait/gangplank-dreadnova.jpg,1
+293,Santa Braum,/images/champion/skins/portrait/braum-santa.jpg,1
+294,Snow Day Graves,/images/champion/skins/portrait/graves-snow-day.jpg,1
+295,Winter Wonder Karma,/images/champion/skins/portrait/karma-winter-wonder.jpg,1
+296,Classic Camille,/images/champion/skins/portrait/camille-classic.jpg,1
+297,Program Camille,/images/champion/skins/portrait/camille-program.jpg,1
+298,Elementalist Lux,/images/champion/skins/portrait/lux-elementalist.jpg,1
+299,Karthus Lightsbane,/images/champion/skins/portrait/karthus-lightsbane.jpg,1
+300,Jayce Brighthammer,/images/champion/skins/portrait/jayce-brighthammer.jpg,1
+301,Bard Bard,/images/champion/skins/portrait/bard-bard.jpg,1
+302,Sejuani Dawnchaser,/images/champion/skins/portrait/sejuani-dawnchaser.jpg,1
+303,Worldbreaker Hecarim,/images/champion/skins/portrait/hecarim-worldbreaker.jpg,1
+304,Worldbreaker Nasus,/images/champion/skins/portrait/nasus-worldbreaker.jpg,1
+305,Worldbreaker Trundle,/images/champion/skins/portrait/trundle-worldbreaker.jpg,1
+306,Worldbreaker Nautilus,/images/champion/skins/portrait/nautilus-worldbreaker.jpg,1
+307,Little Devil Teemo,/images/champion/skins/portrait/teemo-little-devil.jpg,1
+308,Bewitching Tristana,/images/champion/skins/portrait/tristana-bewitching.jpg,1
+309,Bewitching Morgana,/images/champion/skins/portrait/morgana-bewitching.jpg,1
+310,Victorious Maokai,/images/champion/skins/portrait/maokai-victorious.jpg,1
+311,Star Guardian Janna,/images/champion/skins/portrait/janna-star-guardian.jpg,1
+312,Star Guardian Jinx,/images/champion/skins/portrait/jinx-star-guardian.jpg,1
+313,Star Guardian Lulu,/images/champion/skins/portrait/lulu-star-guardian.jpg,1
+314,Star Guardian Poppy,/images/champion/skins/portrait/poppy-star-guardian.jpg,1
+315,Classic Ivern,/images/champion/skins/portrait/ivern-classic.jpg,1
+316,Candy King Ivern,/images/champion/skins/portrait/ivern-candy-king.jpg,1
+317,Championship Zed,/images/champion/skins/portrait/zed-championship.jpg,1
+318,Championship Riven 2016,/images/champion/skins/portrait/riven-championship.jpg,1
+319,Sashimi Akali,/images/champion/skins/portrait/akali-sashimi.jpg,1
+320,Baker Pantheon,/images/champion/skins/portrait/pantheon-baker.jpg,1
+321,Barbecue Leona,/images/champion/skins/portrait/leona-barbecue.jpg,1
+322,Butcher Olaf,/images/champion/skins/portrait/olaf-butcher.jpg,1
+323,Arcade Ahri,/images/champion/skins/portrait/ahri-arcade.jpg,1
+324,Arcade Corki,/images/champion/skins/portrait/corki-arcade.jpg,1
+325,Arcade Ezreal,/images/champion/skins/portrait/ezreal-arcade.jpg,1
+326,SKT Alistar,/images/champion/skins/portrait/alistar-skt.jpg,1
+327,SKT Azir,/images/champion/skins/portrait/azir-skt.jpg,1
+328,SKT Elise,/images/champion/skins/portrait/elise-skt.jpg,1
+329,SKT Kalista,/images/champion/skins/portrait/kalista-skt.jpg,1
+330,SKT Renekton,/images/champion/skins/portrait/renekton-skt.jpg,1
+331,SKT Ryze,/images/champion/skins/portrait/ryze-skt.jpg,1
+332,Classic Kled,/images/champion/skins/portrait/kled-classic.jpg,1
+333,Sir Kled,/images/champion/skins/portrait/kled-sir.jpg,1
+334,PROJECT: Ashe,/images/champion/skins/portrait/ashe-project.jpg,1
+335,PROJECT: Ekko,/images/champion/skins/portrait/ekko-project.jpg,1
+336,PROJECT: Katarina,/images/champion/skins/portrait/katarina-project.jpg,1
+337,Pool Party Fiora,/images/champion/skins/portrait/fiora-pool-party.jpg,1
+338,Pool Party Miss Fortune,/images/champion/skins/portrait/miss-fortune-pool-party.jpg,1
+339,Pool Party Taric,/images/champion/skins/portrait/taric-pool-party.jpg,1
+340,Soulstealer Vayne,/images/champion/skins/portrait/vayne-soulstealer.jpg,1
+341,Deep Sea Nami,/images/champion/skins/portrait/nami-deep-sea.jpg,1
+342,Dark Star Thresh,/images/champion/skins/portrait/thresh-dark-star.jpg,1
+343,Dark Star Varus,/images/champion/skins/portrait/varus-dark-star.jpg,1
+344,El León Gnar,/images/champion/skins/portrait/gnar-el-leon.jpg,1
+345,El Macho Mundo,/images/champion/skins/portrait/dr-mundo-el-macho.jpg,1
+346,El Rayo Volibear,/images/champion/skins/portrait/volibear-el-rayo.jpg,1
+347,Super Galaxy Fizz,/images/champion/skins/portrait/fizz-super-galaxy.jpg,1
+348,Super Galaxy Kindred,/images/champion/skins/portrait/kindred-super-galaxy.jpg,1
+349,Super Galaxy Shyvana,/images/champion/skins/portrait/shyvana-super-galaxy.jpg,1
+350,Classic Taliyah,/images/champion/skins/portrait/taliyah-classic.jpg,1
+351,Freljord Taliyah,/images/champion/skins/portrait/taliyah-freljord.jpg,1
+352,Iron Inquisitor Kayle,/images/champion/skins/portrait/kayle-iron-inquisitor.jpg,1
+353,Cursed Revenant Nocturne,/images/champion/skins/portrait/nocturne-cursed-revenant.jpg,1
+354,Black Scourge Singed,/images/champion/skins/portrait/singed-black-scourge.jpg,1
+355,Infernal Diana,/images/champion/skins/portrait/diana-infernal.jpg,1
+356,Mecha Zero Sion,/images/champion/skins/portrait/sion-mecha-zero.jpg,1
+357,Program Soraka,/images/champion/skins/portrait/soraka-program.jpg,1
+358,Program Lissandra,/images/champion/skins/portrait/lissandra-program.jpg,1
+359,Draven Draven,/images/champion/skins/portrait/draven-draven.jpg,1
+360,Urf Kench,/images/champion/skins/portrait/tahm-kench-urf.jpg,1
+361,Definitely Not Vel'Koz,/images/champion/skins/portrait/velkoz-definitely-not.jpg,1
+362,Meowkai,/images/champion/skins/portrait/maokai-meowkai.jpg,1
+363,Ashen Lord Aurelion Sol,/images/champion/skins/portrait/aurelion-sol-ashen-lord.jpg,1
+364,Classic Aurelion Sol,/images/champion/skins/portrait/aurelion-sol-classic.jpg,1
+365,Death Blossom Kha'Zix,/images/champion/skins/portrait/khazix-death-blossom.jpg,1
+366,Hextech Annie,/images/champion/skins/portrait/annie-hextech.jpg,1
+367,Elderwood Leblanc,/images/champion/skins/portrait/leblanc-elderwood.jpg,1
+368,Blood Moon Kennen,/images/champion/skins/portrait/kennen-blood-moon.jpg,1
+369,Blood Moon Yasuo,/images/champion/skins/portrait/yasuo-blood-moon.jpg,1
+370,Heartseeker Orianna,/images/champion/skins/portrait/orianna-heartseeker.jpg,1
+371,Sweetheart Sona,/images/champion/skins/portrait/sona-sweetheart.jpg,1
+372,Beast Hunter Draven,/images/champion/skins/portrait/draven-beast-hunter.jpg,1
+373,Beast Hunter Sejuani,/images/champion/skins/portrait/sejuani-beast-hunter.jpg,1
+374,Beast Hunter Tryndamere,/images/champion/skins/portrait/tryndamere-beast-hunter.jpg,1
+375,Classic Jhin,/images/champion/skins/portrait/jhin-classic.jpg,1
+376,High Noon Jhin,/images/champion/skins/portrait/jhin-high-noon.jpg,1
+377,Lunar Wraith Caitlyn,/images/champion/skins/portrait/caitlyn-lunar-wraith.jpg,1
+378,Lunar Wraith Morgana,/images/champion/skins/portrait/morgana-lunar-wraith.jpg,1
+379,Radiant Wukong,/images/champion/skins/portrait/wukong-radiant.jpg,1
+380,Challenger Nidalee,/images/champion/skins/portrait/nidalee-challenger.jpg,1
+381,Snow Day Bard,/images/champion/skins/portrait/bard-snow-day.jpg,1
+382,Snow Day Gnar,/images/champion/skins/portrait/gnar-snow-day.jpg,1
+383,Snow Day Syndra,/images/champion/skins/portrait/syndra-snow-day.jpg,1
+384,Braum Lionheart,/images/champion/skins/portrait/braum-lionheart.jpg,1
+385,Gragas Caskbreaker,/images/champion/skins/portrait/gragas-caskbreaker.jpg,1
+386,Ryze Whitebeard,/images/champion/skins/portrait/ryze-whitebeard.jpg,1
+387,Varus Swiftbolt,/images/champion/skins/portrait/varus-swiftbolt.jpg,1
+388,Dragon Trainer Tristana,/images/champion/skins/portrait/tristana-dragon-trainer.jpg,1
+389,Gravelord Azir,/images/champion/skins/portrait/azir-gravelord.jpg,1
+390,Elderwood Hecarim,/images/champion/skins/portrait/hecarim-elderwood.jpg,1
+391,Classic Illaoi,/images/champion/skins/portrait/illaoi-classic.jpg,1
+392,Void Bringer Illaoi,/images/champion/skins/portrait/illaoi-void-bringer.jpg,1
+393,Victorious Sivir,/images/champion/skins/portrait/sivir-victorious.jpg,1
+394,Slayer Jinx,/images/champion/skins/portrait/jinx-slayer.jpg,1
+395,Zombie Nunu &amp; Willump,/images/champion/skins/portrait/nunu-amp-willump-zombie.jpg,1
+396,Slayer Pantheon,/images/champion/skins/portrait/pantheon-slayer.jpg,1
+397,Spirit Fire Brand,/images/champion/skins/portrait/brand-spirit-fire.jpg,1
+398,Demon Vi,/images/champion/skins/portrait/vi-demon.jpg,1
+399,Cosmic Reaver Kassadin,/images/champion/skins/portrait/kassadin-cosmic-reaver.jpg,1
+400,Classic Kindred,/images/champion/skins/portrait/kindred-classic.jpg,1
+401,Shadowfire Kindred,/images/champion/skins/portrait/kindred-shadowfire.jpg,1
+402,Ironside Malphite,/images/champion/skins/portrait/malphite-ironside.jpg,1
+403,Marauder Alistar,/images/champion/skins/portrait/alistar-marauder.jpg,1
+404,Marauder Olaf,/images/champion/skins/portrait/olaf-marauder.jpg,1
+405,Warden Jax,/images/champion/skins/portrait/jax-warden.jpg,1
+406,Warden Karma,/images/champion/skins/portrait/karma-warden.jpg,1
+407,Championship Kalista,/images/champion/skins/portrait/kalista-championship.jpg,1
+408,PROJECT: Fiora,/images/champion/skins/portrait/fiora-project.jpg,1
+409,PROJECT: Leona,/images/champion/skins/portrait/leona-project.jpg,1
+410,PROJECT: Lucian,/images/champion/skins/portrait/lucian-project.jpg,1
+411,PROJECT: Yi,/images/champion/skins/portrait/master-yi-project.jpg,1
+412,PROJECT: Zed,/images/champion/skins/portrait/zed-project.jpg,1
+413,Academy Ahri,/images/champion/skins/portrait/ahri-academy.jpg,1
+414,Academy Darius,/images/champion/skins/portrait/darius-academy.jpg,1
+415,Academy Ekko,/images/champion/skins/portrait/ekko-academy.jpg,1
+416,Academy Vladimir,/images/champion/skins/portrait/vladimir-academy.jpg,1
+417,Arcade Riven,/images/champion/skins/portrait/riven-arcade.jpg,1
+418,Battle Boss Blitzcrank,/images/champion/skins/portrait/blitzcrank-battle-boss.jpg,1
+419,Cottontail Fizz,/images/champion/skins/portrait/fizz-cottontail.jpg,1
+420,Captain Gangplank,/images/champion/skins/portrait/gangplank-captain.jpg,1
+421,Captain Fortune,/images/champion/skins/portrait/miss-fortune-captain.jpg,1
+422,Sea Hunter Aatrox,/images/champion/skins/portrait/aatrox-sea-hunter.jpg,1
+423,Rogue Admiral Garen,/images/champion/skins/portrait/garen-rogue-admiral.jpg,1
+424,Corsair Quinn,/images/champion/skins/portrait/quinn-corsair.jpg,1
+425,Cutthroat Graves,/images/champion/skins/portrait/graves-cutthroat.jpg,1
+426,Cutpurse Twisted Fate,/images/champion/skins/portrait/twisted-fate-cutpurse.jpg,1
+427,Gentleman Gnar,/images/champion/skins/portrait/gnar-gentleman.jpg,1
+428,Classic Tahm Kench,/images/champion/skins/portrait/tahm-kench-classic.jpg,1
+429,Master Chef Tahm Kench,/images/champion/skins/portrait/tahm-kench-master-chef.jpg,1
+430,Pool Party Dr. Mundo,/images/champion/skins/portrait/dr-mundo-pool-party.jpg,1
+431,Pool Party Draven,/images/champion/skins/portrait/draven-pool-party.jpg,1
+432,Pool Party Lulu,/images/champion/skins/portrait/lulu-pool-party.jpg,1
+433,Pool Party Rek'Sai,/images/champion/skins/portrait/reksai-pool-party.jpg,1
+434,Pool Party Zac,/images/champion/skins/portrait/zac-pool-party.jpg,1
+435,Prehistoric Anivia,/images/champion/skins/portrait/anivia-prehistoric.jpg,1
+436,Prehistoric Cho'Gath,/images/champion/skins/portrait/chogath-prehistoric.jpg,1
+437,Prehistoric Renekton,/images/champion/skins/portrait/renekton-prehistoric.jpg,1
+438,Nightmare Tryndamere,/images/champion/skins/portrait/tryndamere-nightmare.jpg,1
+439,Order of the Lotus Irelia,/images/champion/skins/portrait/irelia-order-of-the-lotus.jpg,1
+440,Knockout Lee Sin,/images/champion/skins/portrait/lee-sin-knockout.jpg,1
+441,Classic Ekko,/images/champion/skins/portrait/ekko-classic.jpg,1
+442,Sandstorm Ekko,/images/champion/skins/portrait/ekko-sandstorm.jpg,1
+443,Ace of Spades Ezreal,/images/champion/skins/portrait/ezreal-ace-of-spades.jpg,1
+444,King of Clubs Mordekaiser,/images/champion/skins/portrait/mordekaiser-king-of-clubs.jpg,1
+445,Wild Card Shaco,/images/champion/skins/portrait/shaco-wild-card.jpg,1
+446,Queen of Diamonds Syndra,/images/champion/skins/portrait/syndra-queen-of-diamonds.jpg,1
+447,Star Guardian Lux,/images/champion/skins/portrait/lux-star-guardian.jpg,1
+448,SSW Rengar,/images/champion/skins/portrait/rengar-ssw.jpg,1
+449,SSW Singed,/images/champion/skins/portrait/singed-ssw.jpg,1
+450,SSW Talon,/images/champion/skins/portrait/talon-ssw.jpg,1
+451,SSW Thresh,/images/champion/skins/portrait/thresh-ssw.jpg,1
+452,SSW Twitch,/images/champion/skins/portrait/twitch-ssw.jpg,1
+453,Blood Moon Zilean,/images/champion/skins/portrait/zilean-blood-moon.jpg,1
+454,Master Arcanist Ziggs,/images/champion/skins/portrait/ziggs-master-arcanist.jpg,1
+455,Forsaken Jayce,/images/champion/skins/portrait/jayce-forsaken.jpg,1
+456,Risen Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-risen.jpg,1
+457,Guardian of the Sands Rammus,/images/champion/skins/portrait/rammus-guardian-of-the-sands.jpg,1
+458,Guardian of the Sands Skarner,/images/champion/skins/portrait/skarner-guardian-of-the-sands.jpg,1
+459,Guardian of the Sands Xerath,/images/champion/skins/portrait/xerath-guardian-of-the-sands.jpg,1
+460,Arclight Vayne,/images/champion/skins/portrait/vayne-arclight.jpg,1
+461,Debonair Galio,/images/champion/skins/portrait/galio-debonair.jpg,1
+462,Omega Squad Teemo,/images/champion/skins/portrait/teemo-omega-squad.jpg,1
+463,Definitely Not Udyr,/images/champion/skins/portrait/udyr-definitely-not.jpg,1
+464,Surprise Party Amumu,/images/champion/skins/portrait/amumu-surprise-party.jpg,1
+465,Archduke Nasus,/images/champion/skins/portrait/nasus-archduke.jpg,1
+466,Warden Nautilus,/images/champion/skins/portrait/nautilus-warden.jpg,1
+467,Warden Sivir,/images/champion/skins/portrait/sivir-warden.jpg,1
+468,Sweetheart Annie,/images/champion/skins/portrait/annie-sweetheart.jpg,1
+469,Heartseeker Varus,/images/champion/skins/portrait/varus-heartseeker.jpg,1
+470,Firecracker Jinx,/images/champion/skins/portrait/jinx-firecracker.jpg,1
+471,Warring Kingdoms Nidalee,/images/champion/skins/portrait/nidalee-warring-kingdoms.jpg,1
+472,Warring Kingdoms Katarina,/images/champion/skins/portrait/katarina-warring-kingdoms.jpg,1
+473,Arclight Vel'Koz,/images/champion/skins/portrait/velkoz-arclight.jpg,1
+474,El Tigre Braum,/images/champion/skins/portrait/braum-el-tigre.jpg,1
+475,Challenger Ahri,/images/champion/skins/portrait/ahri-challenger.jpg,1
+476,Blood Moon Elise,/images/champion/skins/portrait/elise-blood-moon.jpg,1
+477,Blood Moon Thresh,/images/champion/skins/portrait/thresh-blood-moon.jpg,1
+478,Snow Day Malzahar,/images/champion/skins/portrait/malzahar-snow-day.jpg,1
+479,Winter Wonder Orianna,/images/champion/skins/portrait/orianna-winter-wonder.jpg,1
+480,Poro Rider Sejuani,/images/champion/skins/portrait/sejuani-poro-rider.jpg,1
+481,Classic Rek'Sai,/images/champion/skins/portrait/reksai-classic.jpg,1
+482,Eternum Rek'Sai,/images/champion/skins/portrait/reksai-eternum.jpg,1
+483,Safecracker Evelynn,/images/champion/skins/portrait/evelynn-safecracker.jpg,1
+484,Pickpocket Twitch,/images/champion/skins/portrait/twitch-pickpocket.jpg,1
+485,Constable Trundle,/images/champion/skins/portrait/trundle-constable.jpg,1
+486,Captain Volibear,/images/champion/skins/portrait/volibear-captain.jpg,1
+487,Battlecast Alpha Skarner,/images/champion/skins/portrait/skarner-battlecast-alpha.jpg,1
+488,Battlecast Kog'Maw,/images/champion/skins/portrait/kogmaw-battlecast.jpg,1
+489,Blood Moon Kalista,/images/champion/skins/portrait/kalista-blood-moon.jpg,1
+490,Classic Kalista,/images/champion/skins/portrait/kalista-classic.jpg,1
+491,Victorious Morgana,/images/champion/skins/portrait/morgana-victorious.jpg,1
+492,Reaper Soraka,/images/champion/skins/portrait/soraka-reaper.jpg,1
+493,Ravenborn Leblanc,/images/champion/skins/portrait/leblanc-ravenborn.jpg,1
+494,Underworld Wukong,/images/champion/skins/portrait/wukong-underworld.jpg,1
+495,Championship Shyvana,/images/champion/skins/portrait/shyvana-championship.jpg,1
+496,Dunkmaster Darius,/images/champion/skins/portrait/darius-dunkmaster.jpg,1
+497,Order of the Lotus Karma,/images/champion/skins/portrait/karma-order-of-the-lotus.jpg,1
+498,Fnatic Karthus,/images/champion/skins/portrait/karthus-fnatic.jpg,1
+499,Fnatic Jarvan IV,/images/champion/skins/portrait/jarvan-iv-fnatic.jpg,1
+500,Fnatic Janna,/images/champion/skins/portrait/janna-fnatic.jpg,1
+501,Fnatic Corki,/images/champion/skins/portrait/corki-fnatic.jpg,1
+502,Fnatic Gragas,/images/champion/skins/portrait/gragas-fnatic.jpg,1
+503,Classic Azir,/images/champion/skins/portrait/azir-classic.jpg,1
+504,Galactic Azir,/images/champion/skins/portrait/azir-galactic.jpg,1
+505,Guardian of the Sands Kha'Zix,/images/champion/skins/portrait/khazix-guardian-of-the-sands.jpg,1
+506,Headhunter Caitlyn,/images/champion/skins/portrait/caitlyn-headhunter.jpg,1
+507,PROJECT: Yasuo,/images/champion/skins/portrait/yasuo-project.jpg,1
+508,Final Boss Veigar,/images/champion/skins/portrait/veigar-final-boss.jpg,1
+509,Classic Gnar,/images/champion/skins/portrait/gnar-classic.jpg,1
+510,Arcade Miss Fortune,/images/champion/skins/portrait/miss-fortune-arcade.jpg,1
+511,Dino Gnar,/images/champion/skins/portrait/gnar-dino.jpg,1
+512,Riot Kayle,/images/champion/skins/portrait/kayle-riot.jpg,1
+513,Debonair Ezreal,/images/champion/skins/portrait/ezreal-debonair.jpg,1
+514,Debonair Vi,/images/champion/skins/portrait/vi-debonair.jpg,1
+515,Mecha Aatrox,/images/champion/skins/portrait/aatrox-mecha.jpg,1
+516,Mecha Malphite,/images/champion/skins/portrait/malphite-mecha.jpg,1
+517,Hazmat Heimerdinger,/images/champion/skins/portrait/heimerdinger-hazmat.jpg,1
+518,Soulstealer Vladimir,/images/champion/skins/portrait/vladimir-soulstealer.jpg,1
+519,Primetime Draven,/images/champion/skins/portrait/draven-primetime.jpg,1
+520,Sweeper Alistar,/images/champion/skins/portrait/alistar-sweeper.jpg,1
+521,Goalkeeper Maokai,/images/champion/skins/portrait/maokai-goalkeeper.jpg,1
+522,Striker Lucian,/images/champion/skins/portrait/lucian-striker.jpg,1
+523,Red Card Twisted Fate,/images/champion/skins/portrait/twisted-fate-red-card.jpg,1
+524,Superfan Gragas,/images/champion/skins/portrait/gragas-superfan.jpg,1
+525,Woad Scout Quinn,/images/champion/skins/portrait/quinn-woad-scout.jpg,1
+526,River Spirit Nami,/images/champion/skins/portrait/nami-river-spirit.jpg,1
+527,Blade Queen Lissandra,/images/champion/skins/portrait/lissandra-blade-queen.jpg,1
+528,Night Hunter Rengar,/images/champion/skins/portrait/rengar-night-hunter.jpg,1
+529,Dragonslayer Braum,/images/champion/skins/portrait/braum-dragonslayer.jpg,1
+530,Dragonslayer Pantheon,/images/champion/skins/portrait/pantheon-dragonslayer.jpg,1
+531,Classic Braum,/images/champion/skins/portrait/braum-classic.jpg,1
+532,SKT Vayne,/images/champion/skins/portrait/vayne-skt.jpg,1
+533,SKT Lee Sin,/images/champion/skins/portrait/lee-sin-skt.jpg,1
+534,SKT Jax,/images/champion/skins/portrait/jax-skt.jpg,1
+535,SKT Zyra,/images/champion/skins/portrait/zyra-skt.jpg,1
+536,SKT Zed,/images/champion/skins/portrait/zed-skt.jpg,1
+537,Atlantean Syndra,/images/champion/skins/portrait/syndra-atlantean.jpg,1
+538,Void Fizz,/images/champion/skins/portrait/fizz-void.jpg,1
+539,Super Galaxy Rumble,/images/champion/skins/portrait/rumble-super-galaxy.jpg,1
+540,Classic Vel'Koz,/images/champion/skins/portrait/velkoz-classic.jpg,1
+541,Arctic Ops Varus,/images/champion/skins/portrait/varus-arctic-ops.jpg,1
+542,Battlecast Vel'Koz,/images/champion/skins/portrait/velkoz-battlecast.jpg,1
+543,Heartseeker Ashe,/images/champion/skins/portrait/ashe-heartseeker.jpg,1
+544,Scorched Earth Renekton,/images/champion/skins/portrait/renekton-scorched-earth.jpg,1
+545,Lunar Goddess Diana,/images/champion/skins/portrait/diana-lunar-goddess.jpg,1
+546,Dragonblade Riven,/images/champion/skins/portrait/riven-dragonblade.jpg,1
+547,Warring Kingdoms Tryndamere,/images/champion/skins/portrait/tryndamere-warring-kingdoms.jpg,1
+548,Winter Wonder Lulu,/images/champion/skins/portrait/lulu-winter-wonder.jpg,1
+549,Snow Day Singed,/images/champion/skins/portrait/singed-snow-day.jpg,1
+550,Snowstorm Sivir,/images/champion/skins/portrait/sivir-snowstorm.jpg,1
+551,Classic Yasuo,/images/champion/skins/portrait/yasuo-classic.jpg,1
+552,High Noon Yasuo,/images/champion/skins/portrait/yasuo-high-noon.jpg,1
+553,Popstar Ahri,/images/champion/skins/portrait/ahri-popstar.jpg,1
+554,Infernal Nasus,/images/champion/skins/portrait/nasus-infernal.jpg,1
+555,Sultan Gangplank,/images/champion/skins/portrait/gangplank-sultan.jpg,1
+556,Victorious Elise,/images/champion/skins/portrait/elise-victorious.jpg,1
+557,Officer Vi,/images/champion/skins/portrait/vi-officer.jpg,1
+558,Haunted Zyra,/images/champion/skins/portrait/zyra-haunted.jpg,1
+559,Classic Jinx,/images/champion/skins/portrait/jinx-classic.jpg,1
+560,Mafia Jinx,/images/champion/skins/portrait/jinx-mafia.jpg,1
+561,Championship Thresh,/images/champion/skins/portrait/thresh-championship.jpg,1
+562,Creator Viktor,/images/champion/skins/portrait/viktor-creator.jpg,1
+563,Pool Party Graves,/images/champion/skins/portrait/graves-pool-party.jpg,1
+564,Pool Party Lee Sin,/images/champion/skins/portrait/lee-sin-pool-party.jpg,1
+565,Pool Party Leona,/images/champion/skins/portrait/leona-pool-party.jpg,1
+566,Pool Party Renekton,/images/champion/skins/portrait/renekton-pool-party.jpg,1
+567,Forecast Janna,/images/champion/skins/portrait/janna-forecast.jpg,1
+568,Riot Blitzcrank,/images/champion/skins/portrait/blitzcrank-riot.jpg,1
+569,Arcade Hecarim,/images/champion/skins/portrait/hecarim-arcade.jpg,1
+570,Classic Lucian,/images/champion/skins/portrait/lucian-classic.jpg,1
+571,Hired Gun Lucian,/images/champion/skins/portrait/lucian-hired-gun.jpg,1
+572,Bear Cavalry Sejuani,/images/champion/skins/portrait/sejuani-bear-cavalry.jpg,1
+573,Spirit Guard Udyr,/images/champion/skins/portrait/udyr-spirit-guard.jpg,1
+574,Woad King Darius,/images/champion/skins/portrait/darius-woad-king.jpg,1
+575,Ghost Bride Morgana,/images/champion/skins/portrait/morgana-ghost-bride.jpg,1
+576,Classic Aatrox,/images/champion/skins/portrait/aatrox-classic.jpg,1
+577,Justicar Aatrox,/images/champion/skins/portrait/aatrox-justicar.jpg,1
+578,TPA Dr. Mundo,/images/champion/skins/portrait/dr-mundo-tpa.jpg,1
+579,TPA Ezreal,/images/champion/skins/portrait/ezreal-tpa.jpg,1
+580,TPA Nunu &amp; Willump,/images/champion/skins/portrait/nunu-amp-willump-tpa.jpg,1
+581,TPA Orianna,/images/champion/skins/portrait/orianna-tpa.jpg,1
+582,TPA Shen,/images/champion/skins/portrait/shen-tpa.jpg,1
+583,Traditional Trundle,/images/champion/skins/portrait/trundle-traditional.jpg,1
+584,Classic Lissandra,/images/champion/skins/portrait/lissandra-classic.jpg,1
+585,Bloodstone Lissandra,/images/champion/skins/portrait/lissandra-bloodstone.jpg,1
+586,Blackfrost Anivia,/images/champion/skins/portrait/anivia-blackfrost.jpg,1
+587,Ice Drake Shyvana,/images/champion/skins/portrait/shyvana-ice-drake.jpg,1
+588,Runeguard Volibear,/images/champion/skins/portrait/volibear-runeguard.jpg,1
+589,Traditional Sejuani,/images/champion/skins/portrait/sejuani-traditional.jpg,1
+590,Special Weapon Zac,/images/champion/skins/portrait/zac-special-weapon.jpg,1
+591,Classic Zac,/images/champion/skins/portrait/zac-classic.jpg,1
+592,Traditional Karma,/images/champion/skins/portrait/karma-traditional.jpg,1
+593,Gladiator Draven,/images/champion/skins/portrait/draven-gladiator.jpg,1
+594,Headhunter Nidalee,/images/champion/skins/portrait/nidalee-headhunter.jpg,1
+595,Celestine Soraka,/images/champion/skins/portrait/soraka-celestine.jpg,1
+596,Classic Quinn,/images/champion/skins/portrait/quinn-classic.jpg,1
+597,Phoenix Quinn,/images/champion/skins/portrait/quinn-phoenix.jpg,1
+598,iBlitzcrank,/images/champion/skins/portrait/blitzcrank-iblitzcrank.jpg,1
+599,Debonair Jayce,/images/champion/skins/portrait/jayce-debonair.jpg,1
+600,Panda Annie,/images/champion/skins/portrait/annie-panda.jpg,1
+601,Jade Fang Cassiopeia,/images/champion/skins/portrait/cassiopeia-jade-fang.jpg,1
+602,Dragonwing Corki,/images/champion/skins/portrait/corki-dragonwing.jpg,1
+603,Warring Kingdoms Jarvan IV,/images/champion/skins/portrait/jarvan-iv-warring-kingdoms.jpg,1
+604,Warring Kingdoms Xin Zhao,/images/champion/skins/portrait/xin-zhao-warring-kingdoms.jpg,1
+605,Steel Legion Lux,/images/champion/skins/portrait/lux-steel-legion.jpg,1
+606,Steel Legion Garen,/images/champion/skins/portrait/garen-steel-legion.jpg,1
+607,Classic Thresh,/images/champion/skins/portrait/thresh-classic.jpg,1
+608,Deep Terror Thresh,/images/champion/skins/portrait/thresh-deep-terror.jpg,1
+609,Aether Wing Kayle,/images/champion/skins/portrait/kayle-aether-wing.jpg,1
+610,Masked Shaco,/images/champion/skins/portrait/shaco-masked.jpg,1
+611,Classic Vi,/images/champion/skins/portrait/vi-classic.jpg,1
+612,Neon Strike Vi,/images/champion/skins/portrait/vi-neon-strike.jpg,1
+613,Dark Candy Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-dark-candy.jpg,1
+614,Slay Belle Katarina,/images/champion/skins/portrait/katarina-slay-belle.jpg,1
+615,Bad Santa Veigar,/images/champion/skins/portrait/veigar-bad-santa.jpg,1
+616,Snow Day Ziggs,/images/champion/skins/portrait/ziggs-snow-day.jpg,1
+617,Classic Nami,/images/champion/skins/portrait/nami-classic.jpg,1
+618,Koi Nami,/images/champion/skins/portrait/nami-koi.jpg,1
+619,Arclight Varus,/images/champion/skins/portrait/varus-arclight.jpg,1
+620,Eternum Nocturne,/images/champion/skins/portrait/nocturne-eternum.jpg,1
+621,Bioforge Darius,/images/champion/skins/portrait/darius-bioforge.jpg,1
+622,Dragon Trainer Lulu,/images/champion/skins/portrait/lulu-dragon-trainer.jpg,1
+623,Classic Zed,/images/champion/skins/portrait/zed-classic.jpg,1
+624,Shockblade Zed,/images/champion/skins/portrait/zed-shockblade.jpg,1
+625,Victorious Janna,/images/champion/skins/portrait/janna-victorious.jpg,1
+626,Zombie Brand,/images/champion/skins/portrait/brand-zombie.jpg,1
+627,Classic Elise,/images/champion/skins/portrait/elise-classic.jpg,1
+628,Death Blossom Elise,/images/champion/skins/portrait/elise-death-blossom.jpg,1
+629,Headmistress Fiora,/images/champion/skins/portrait/fiora-headmistress.jpg,1
+630,Headless Hecarim,/images/champion/skins/portrait/hecarim-headless.jpg,1
+631,Haunted Maokai,/images/champion/skins/portrait/maokai-haunted.jpg,1
+632,Pirate Ryze,/images/champion/skins/portrait/ryze-pirate.jpg,1
+633,Underworld Twisted Fate,/images/champion/skins/portrait/twisted-fate-underworld.jpg,1
+634,Rocket Girl Tristana,/images/champion/skins/portrait/tristana-rocket-girl.jpg,1
+635,Battlecast Prime Cho'Gath,/images/champion/skins/portrait/chogath-battlecast-prime.jpg,1
+636,Pentakill Olaf,/images/champion/skins/portrait/olaf-pentakill.jpg,1
+637,Classic Kha'Zix,/images/champion/skins/portrait/khazix-classic.jpg,1
+638,Mecha Kha'Zix,/images/champion/skins/portrait/khazix-mecha.jpg,1
+639,Sultan Tryndamere,/images/champion/skins/portrait/tryndamere-sultan.jpg,1
+640,Oktoberfest Gragas,/images/champion/skins/portrait/gragas-oktoberfest.jpg,1
+641,Nemesis Jax,/images/champion/skins/portrait/jax-nemesis.jpg,1
+642,Special Forces Gangplank,/images/champion/skins/portrait/gangplank-special-forces.jpg,1
+643,Classic Syndra,/images/champion/skins/portrait/syndra-classic.jpg,1
+644,Justicar Syndra,/images/champion/skins/portrait/syndra-justicar.jpg,1
+645,AstroNautilus,/images/champion/skins/portrait/nautilus-astro.jpg,1
+646,Pool Party Ziggs,/images/champion/skins/portrait/ziggs-pool-party.jpg,1
+647,Arcade Sona,/images/champion/skins/portrait/sona-arcade.jpg,1
+648,Classic Rengar,/images/champion/skins/portrait/rengar-classic.jpg,1
+649,Headhunter Rengar,/images/champion/skins/portrait/rengar-headhunter.jpg,1
+650,Riot Graves,/images/champion/skins/portrait/graves-riot.jpg,1
+651,Riot K-9 Nasus,/images/champion/skins/portrait/nasus-riot-k-9.jpg,1
+652,Full Metal Rammus,/images/champion/skins/portrait/rammus-full-metal.jpg,1
+653,Classic Diana,/images/champion/skins/portrait/diana-classic.jpg,1
+654,Dark Valkyrie Diana,/images/champion/skins/portrait/diana-dark-valkyrie.jpg,1
+655,Rageborn Mundo,/images/champion/skins/portrait/dr-mundo-rageborn.jpg,1
+656,Muay Thai Lee Sin,/images/champion/skins/portrait/lee-sin-muay-thai.jpg,1
+657,Classic Zyra,/images/champion/skins/portrait/zyra-classic.jpg,1
+658,Wildfire Zyra,/images/champion/skins/portrait/zyra-wildfire.jpg,1
+659,Mythic Cassiopeia,/images/champion/skins/portrait/cassiopeia-mythic.jpg,1
+660,Infernal Alistar,/images/champion/skins/portrait/alistar-infernal.jpg,1
+661,Scorched Earth Xerath,/images/champion/skins/portrait/xerath-scorched-earth.jpg,1
+662,Foxfire Ahri,/images/champion/skins/portrait/ahri-foxfire.jpg,1
+663,Glacial Malphite,/images/champion/skins/portrait/malphite-glacial.jpg,1
+664,Augmented Singed,/images/champion/skins/portrait/singed-augmented.jpg,1
+665,Panda Teemo,/images/champion/skins/portrait/teemo-panda.jpg,1
+666,Classic Jayce,/images/champion/skins/portrait/jayce-classic.jpg,1
+667,Full Metal Jayce,/images/champion/skins/portrait/jayce-full-metal.jpg,1
+668,Pulsefire Ezreal,/images/champion/skins/portrait/ezreal-pulsefire.jpg,1
+669,Blast Zone Heimerdinger,/images/champion/skins/portrait/heimerdinger-blast-zone.jpg,1
+670,Soul Reaver Draven,/images/champion/skins/portrait/draven-soul-reaver.jpg,1
+671,Classic Draven,/images/champion/skins/portrait/draven-classic.jpg,1
+672,Glaive Warrior Pantheon,/images/champion/skins/portrait/pantheon-glaive-warrior.jpg,1
+673,Sad Robot Amumu,/images/champion/skins/portrait/amumu-sad-robot.jpg,1
+674,Darkflame Shyvana,/images/champion/skins/portrait/shyvana-darkflame.jpg,1
+675,Classic Darius,/images/champion/skins/portrait/darius-classic.jpg,1
+676,Blood Knight Hecarim,/images/champion/skins/portrait/hecarim-blood-knight.jpg,1
+677,Reaper Hecarim,/images/champion/skins/portrait/hecarim-reaper.jpg,1
+678,Warlord Shen,/images/champion/skins/portrait/shen-warlord.jpg,1
+679,Battle Bunny Riven,/images/champion/skins/portrait/riven-battle-bunny.jpg,1
+680,Mafia Graves,/images/champion/skins/portrait/graves-mafia.jpg,1
+681,Fisherman Fizz,/images/champion/skins/portrait/fizz-fisherman.jpg,1
+682,Jurassic Kog'Maw,/images/champion/skins/portrait/kogmaw-jurassic.jpg,1
+683,Classic Lulu,/images/champion/skins/portrait/lulu-classic.jpg,1
+684,Bittersweet Lulu,/images/champion/skins/portrait/lulu-bittersweet.jpg,1
+685,Wicked Lulu,/images/champion/skins/portrait/lulu-wicked.jpg,1
+686,Battlecast Urgot,/images/champion/skins/portrait/urgot-battlecast.jpg,1
+687,Vandal Gragas,/images/champion/skins/portrait/gragas-vandal.jpg,1
+688,Classic Fiora,/images/champion/skins/portrait/fiora-classic.jpg,1
+689,Royal Guard Fiora,/images/champion/skins/portrait/fiora-royal-guard.jpg,1
+690,Nightraven Fiora,/images/champion/skins/portrait/fiora-nightraven.jpg,1
+691,Bladecraft Orianna,/images/champion/skins/portrait/orianna-bladecraft.jpg,1
+692,Dark Crystal Ryze,/images/champion/skins/portrait/ryze-dark-crystal.jpg,1
+693,Classic Nautilus,/images/champion/skins/portrait/nautilus-classic.jpg,1
+694,Abyssal Nautilus,/images/champion/skins/portrait/nautilus-abyssal.jpg,1
+695,Subterranean Nautilus,/images/champion/skins/portrait/nautilus-subterranean.jpg,1
+696,Heartseeker Vayne,/images/champion/skins/portrait/vayne-heartseeker.jpg,1
+697,Iron Solari Leona,/images/champion/skins/portrait/leona-iron-solari.jpg,1
+698,Headhunter Master Yi,/images/champion/skins/portrait/master-yi-headhunter.jpg,1
+699,Scarlet Hammer Poppy,/images/champion/skins/portrait/poppy-scarlet-hammer.jpg,1
+700,Classic Ziggs,/images/champion/skins/portrait/ziggs-classic.jpg,1
+701,Mad Scientist Ziggs,/images/champion/skins/portrait/ziggs-mad-scientist.jpg,1
+702,Major Ziggs,/images/champion/skins/portrait/ziggs-major.jpg,1
+703,Classic Sejuani,/images/champion/skins/portrait/sejuani-classic.jpg,1
+704,Sabretusk Sejuani,/images/champion/skins/portrait/sejuani-sabretusk.jpg,1
+705,Darkrider Sejuani,/images/champion/skins/portrait/sejuani-darkrider.jpg,1
+706,Dragon Fist Lee Sin,/images/champion/skins/portrait/lee-sin-dragon-fist.jpg,1
+707,Guqin Sona,/images/champion/skins/portrait/sona-guqin.jpg,1
+708,Dragonblade Talon,/images/champion/skins/portrait/talon-dragonblade.jpg,1
+709,Jade Dragon Wukong,/images/champion/skins/portrait/wukong-jade-dragon.jpg,1
+710,Sandstorm Katarina,/images/champion/skins/portrait/katarina-sandstorm.jpg,1
+711,Superb Villain Veigar,/images/champion/skins/portrait/veigar-superb-villain.jpg,1
+712,Arctic Warfare Caitlyn,/images/champion/skins/portrait/caitlyn-arctic-warfare.jpg,1
+713,Arctic Ops Kennen,/images/champion/skins/portrait/kennen-arctic-ops.jpg,1
+714,Classic Viktor,/images/champion/skins/portrait/viktor-classic.jpg,1
+715,Full Machine Viktor,/images/champion/skins/portrait/viktor-full-machine.jpg,1
+716,Prototype Viktor,/images/champion/skins/portrait/viktor-prototype.jpg,1
+717,Classic Ahri,/images/champion/skins/portrait/ahri-classic.jpg,1
+718,Dynasty Ahri,/images/champion/skins/portrait/ahri-dynasty.jpg,1
+719,Midnight Ahri,/images/champion/skins/portrait/ahri-midnight.jpg,1
+720,Toy Soldier Gangplank,/images/champion/skins/portrait/gangplank-toy-soldier.jpg,1
+721,Snowmerdinger,/images/champion/skins/portrait/heimerdinger-snowmerdinger.jpg,1
+722,Mistletoe LeBlanc,/images/champion/skins/portrait/leblanc-mistletoe.jpg,1
+723,Festive Maokai,/images/champion/skins/portrait/maokai-festive.jpg,1
+724,Frost Queen Janna,/images/champion/skins/portrait/janna-frost-queen.jpg,1
+725,Hyena Warwick,/images/champion/skins/portrait/warwick-hyena.jpg,1
+726,Silverfang Akali,/images/champion/skins/portrait/akali-silverfang.jpg,1
+727,Imperial Lux,/images/champion/skins/portrait/lux-imperial.jpg,1
+728,Classic Volibear,/images/champion/skins/portrait/volibear-classic.jpg,1
+729,Thunder Lord Volibear,/images/champion/skins/portrait/volibear-thunder-lord.jpg,1
+730,Northern Storm Volibear,/images/champion/skins/portrait/volibear-northern-storm.jpg,1
+731,Musketeer Twisted Fate,/images/champion/skins/portrait/twisted-fate-musketeer.jpg,1
+732,Blood Lord Vladimir,/images/champion/skins/portrait/vladimir-blood-lord.jpg,1
+733,Atlantean Fizz,/images/champion/skins/portrait/fizz-atlantean.jpg,1
+734,Amethyst Ashe,/images/champion/skins/portrait/ashe-amethyst.jpg,1
+735,Classic Fizz,/images/champion/skins/portrait/fizz-classic.jpg,1
+736,Tundra Fizz,/images/champion/skins/portrait/fizz-tundra.jpg,1
+737,Temple Jax,/images/champion/skins/portrait/jax-temple.jpg,1
+738,Asylum Shaco,/images/champion/skins/portrait/shaco-asylum.jpg,1
+739,Jurassic Cho'Gath,/images/champion/skins/portrait/chogath-jurassic.jpg,1
+740,Mafia Miss Fortune,/images/champion/skins/portrait/miss-fortune-mafia.jpg,1
+741,Classic Shyvana,/images/champion/skins/portrait/shyvana-classic.jpg,1
+742,Boneclaw Shyvana,/images/champion/skins/portrait/shyvana-boneclaw.jpg,1
+743,Ironscale Shyvana,/images/champion/skins/portrait/shyvana-ironscale.jpg,1
+744,Surprise Party Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-surprise-party.jpg,1
+745,FrankenTibbers Annie,/images/champion/skins/portrait/annie-franken-tibbers.jpg,1
+746,Definitely Not Blitzcrank,/images/champion/skins/portrait/blitzcrank-definitely-not.jpg,1
+747,Classic Graves,/images/champion/skins/portrait/graves-classic.jpg,1
+748,Hired Gun Graves,/images/champion/skins/portrait/graves-hired-gun.jpg,1
+749,Jailbreak Graves,/images/champion/skins/portrait/graves-jailbreak.jpg,1
+750,Bewitching Nidalee,/images/champion/skins/portrait/nidalee-bewitching.jpg,1
+751,Haunting Nocturne,/images/champion/skins/portrait/nocturne-haunting.jpg,1
+752,Super Teemo,/images/champion/skins/portrait/teemo-super.jpg,1
+753,Cryocore Brand,/images/champion/skins/portrait/brand-cryocore.jpg,1
+754,Officer Caitlyn,/images/champion/skins/portrait/caitlyn-officer.jpg,1
+755,Infiltrator Irelia,/images/champion/skins/portrait/irelia-infiltrator.jpg,1
+756,Classic Xerath,/images/champion/skins/portrait/xerath-classic.jpg,1
+757,Battlecast Xerath,/images/champion/skins/portrait/xerath-battlecast.jpg,1
+758,Runeborn Xerath,/images/champion/skins/portrait/xerath-runeborn.jpg,1
+759,Winged Hussar Xin Zhao,/images/champion/skins/portrait/xin-zhao-winged-hussar.jpg,1
+760,Unchained Alistar,/images/champion/skins/portrait/alistar-unchained.jpg,1
+761,Deep Sea Kog'Maw,/images/champion/skins/portrait/kogmaw-deep-sea.jpg,1
+762,Overlord Malzahar,/images/champion/skins/portrait/malzahar-overlord.jpg,1
+763,Classic Riven,/images/champion/skins/portrait/riven-classic.jpg,1
+764,Crimson Elite Riven,/images/champion/skins/portrait/riven-crimson-elite.jpg,1
+765,Redeemed Riven,/images/champion/skins/portrait/riven-redeemed.jpg,1
+766,Reverse Annie,/images/champion/skins/portrait/annie-reverse.jpg,1
+767,Pentakill Karthus,/images/champion/skins/portrait/karthus-pentakill.jpg,1
+768,Mad Scientist Singed,/images/champion/skins/portrait/singed-mad-scientist.jpg,1
+769,PAX Sivir,/images/champion/skins/portrait/sivir-pax.jpg,1
+770,Demolisher Nunu &amp; Willump,/images/champion/skins/portrait/nunu-amp-willump-demolisher.jpg,1
+771,Classic Talon,/images/champion/skins/portrait/talon-classic.jpg,1
+772,Renegade Talon,/images/champion/skins/portrait/talon-renegade.jpg,1
+773,Crimson Elite Talon,/images/champion/skins/portrait/talon-crimson-elite.jpg,1
+774,Dragonslayer Vayne,/images/champion/skins/portrait/vayne-dragonslayer.jpg,1
+775,Victorious Jarvan,/images/champion/skins/portrait/jarvan-iv-victorious.jpg,1
+776,Judgement Kayle,/images/champion/skins/portrait/kayle-judgement.jpg,1
+777,Rugged Garen,/images/champion/skins/portrait/garen-rugged.jpg,1
+778,Obsidian Malphite,/images/champion/skins/portrait/malphite-obsidian.jpg,1
+779,Classic Skarner,/images/champion/skins/portrait/skarner-classic.jpg,1
+780,Sandscourge Skarner,/images/champion/skins/portrait/skarner-sandscourge.jpg,1
+781,Earthrune Skarner,/images/champion/skins/portrait/skarner-earthrune.jpg,1
+782,Bloodstone Taric,/images/champion/skins/portrait/taric-bloodstone.jpg,1
+783,Full Metal Pantheon,/images/champion/skins/portrait/pantheon-full-metal.jpg,1
+784,Demonblade Tryndamere,/images/champion/skins/portrait/tryndamere-demonblade.jpg,1
+785,Buccaneer Tristana,/images/champion/skins/portrait/tristana-buccaneer.jpg,1
+786,Darkforge Jarvan,/images/champion/skins/portrait/jarvan-iv-darkforge.jpg,1
+787,Bloodfury Renekton,/images/champion/skins/portrait/renekton-bloodfury.jpg,1
+788,Classic Wukong,/images/champion/skins/portrait/wukong-classic.jpg,1
+789,Volcanic Wukong,/images/champion/skins/portrait/wukong-volcanic.jpg,1
+790,General Wukong,/images/champion/skins/portrait/wukong-general.jpg,1
+791,Little Knight Amumu,/images/champion/skins/portrait/amumu-little-knight.jpg,1
+792,Warmonger Sion,/images/champion/skins/portrait/sion-warmonger.jpg,1
+793,Harbinger Kassadin,/images/champion/skins/portrait/kassadin-harbinger.jpg,1
+794,Defender Leona,/images/champion/skins/portrait/leona-defender.jpg,1
+795,Valkyrie Leona,/images/champion/skins/portrait/leona-valkyrie.jpg,1
+796,Classic Leona,/images/champion/skins/portrait/leona-classic.jpg,1
+797,Blood Moon Akali,/images/champion/skins/portrait/akali-blood-moon.jpg,1
+798,Baron Von Veigar,/images/champion/skins/portrait/veigar-baron-von.jpg,1
+799,Gothic Orianna,/images/champion/skins/portrait/orianna-gothic.jpg,1
+800,Sewn Chaos Orianna,/images/champion/skins/portrait/orianna-sewn-chaos.jpg,1
+801,Frostfire Annie,/images/champion/skins/portrait/annie-frostfire.jpg,1
+802,Road Warrior Miss Fortune,/images/champion/skins/portrait/miss-fortune-road-warrior.jpg,1
+803,Ninja Rammus,/images/champion/skins/portrait/rammus-ninja.jpg,1
+804,High Noon Twisted Fate,/images/champion/skins/portrait/twisted-fate-high-noon.jpg,1
+805,Safari Caitlyn,/images/champion/skins/portrait/caitlyn-safari.jpg,1
+806,Jaximus,/images/champion/skins/portrait/jax-jaximus.jpg,1
+807,Lord Mordekaiser,/images/champion/skins/portrait/mordekaiser-lord.jpg,1
+808,Classic Vayne,/images/champion/skins/portrait/vayne-classic.jpg,1
+809,Vindicator Vayne,/images/champion/skins/portrait/vayne-vindicator.jpg,1
+810,Aristocrat Vayne,/images/champion/skins/portrait/vayne-aristocratic.jpg,1
+811,Tribal Ryze,/images/champion/skins/portrait/ryze-tribal.jpg,1
+812,Nunu &amp; Willump Bot,/images/champion/skins/portrait/nunu-amp-willump-bot.jpg,1
+813,Classic Rumble,/images/champion/skins/portrait/rumble-classic.jpg,1
+814,Rumble in the Jungle,/images/champion/skins/portrait/rumble-rumble-in-the-jungle.jpg,1
+815,Bilgerat Rumble,/images/champion/skins/portrait/rumble-bilgerat.jpg,1
+816,Fiddle Me Timbers,/images/champion/skins/portrait/fiddlesticks-fiddle-me-timbers.jpg,1
+817,Dreadknight Nasus,/images/champion/skins/portrait/nasus-dreadknight.jpg,1
+818,Cottontail Teemo,/images/champion/skins/portrait/teemo-cottontail.jpg,1
+819,Battleborn Kayle,/images/champion/skins/portrait/kayle-battleborn.jpg,1
+820,Classic Brand,/images/champion/skins/portrait/brand-classic.jpg,1
+821,Apocalyptic Brand,/images/champion/skins/portrait/brand-apocalyptic.jpg,1
+822,Vandal Brand,/images/champion/skins/portrait/brand-vandal.jpg,1
+823,"Gragas, Esq.",/images/champion/skins/portrait/gragas-gragas-esq.jpg,1
+824,Time Machine Zilean,/images/champion/skins/portrait/zilean-time-machine.jpg,1
+825,Urfrider Corki,/images/champion/skins/portrait/corki-urfrider.jpg,1
+826,Classic Lee Sin,/images/champion/skins/portrait/lee-sin-classic.jpg,1
+827,Traditional Lee Sin,/images/champion/skins/portrait/lee-sin-traditional.jpg,1
+828,Acolyte Lee Sin,/images/champion/skins/portrait/lee-sin-acolyte.jpg,1
+829,Kennen M.D.,/images/champion/skins/portrait/kennen-kennen-m-d.jpg,1
+830,Workshop Shaco,/images/champion/skins/portrait/shaco-workshop.jpg,1
+831,Firefang Warwick,/images/champion/skins/portrait/warwick-firefang.jpg,1
+832,Marble Malphite,/images/champion/skins/portrait/malphite-marble.jpg,1
+833,Bandit Sivir,/images/champion/skins/portrait/sivir-bandit.jpg,1
+834,Classic Nocturne,/images/champion/skins/portrait/nocturne-classic.jpg,1
+835,Leprechaun Veigar,/images/champion/skins/portrait/veigar-leprechaun.jpg,1
+836,Frozen Terror Nocturne,/images/champion/skins/portrait/nocturne-frozen-terror.jpg,1
+837,Void Nocturne,/images/champion/skins/portrait/nocturne-void.jpg,1
+838,Battle Regalia Poppy,/images/champion/skins/portrait/poppy-battle-regalia.jpg,1
+839,Piltover Customs Blitzcrank,/images/champion/skins/portrait/blitzcrank-piltover.jpg,1
+840,Samurai Yi,/images/champion/skins/portrait/master-yi-samurai-yi.jpg,1
+841,Hextech Anivia,/images/champion/skins/portrait/anivia-hextech.jpg,1
+842,Loch Ness Cho'Gath,/images/champion/skins/portrait/chogath-loch-ness.jpg,1
+843,Classic Jarvan IV,/images/champion/skins/portrait/jarvan-iv-classic.jpg,1
+844,Commando Jarvan,/images/champion/skins/portrait/jarvan-iv-commando.jpg,1
+845,Dragonslayer Jarvan IV,/images/champion/skins/portrait/jarvan-iv-dragon-slayer.jpg,1
+846,High Command Katarina,/images/champion/skins/portrait/katarina-high-command.jpg,1
+847,Vandal Twitch,/images/champion/skins/portrait/twitch-vandal.jpg,1
+848,Huntress Sivir,/images/champion/skins/portrait/sivir-huntress.jpg,1
+849,Longhorn Alistar,/images/champion/skins/portrait/alistar-longhorn.jpg,1
+850,Classic Maokai,/images/champion/skins/portrait/maokai-classic.jpg,1
+851,Totemic Maokai,/images/champion/skins/portrait/maokai-totemic.jpg,1
+852,Charred Maokai,/images/champion/skins/portrait/maokai-charred.jpg,1
+853,Almost Prom King Amumu,/images/champion/skins/portrait/amumu-almost-prom-king.jpg,1
+854,Prom Queen Annie,/images/champion/skins/portrait/annie-prom-queen.jpg,1
+855,Classic Karma,/images/champion/skins/portrait/karma-classic.jpg,1
+856,Sakura Karma,/images/champion/skins/portrait/karma-sakura.jpg,1
+857,Sun Goddess Karma,/images/champion/skins/portrait/karma-sun-goddess.jpg,1
+858,Lion Dance Kog'Maw,/images/champion/skins/portrait/kogmaw-lion-dance.jpg,1
+859,Djinn Malzahar,/images/champion/skins/portrait/malzahar-djinn.jpg,1
+860,Lumberjack Sion,/images/champion/skins/portrait/sion-lumberjack.jpg,1
+861,Vandal Vladimir,/images/champion/skins/portrait/vladimir-vandal.jpg,1
+862,Commando Galio,/images/champion/skins/portrait/galio-commando.jpg,1
+863,Dreadknight Garen,/images/champion/skins/portrait/garen-dreadknight.jpg,1
+864,Classic Renekton,/images/champion/skins/portrait/renekton-classic.jpg,1
+865,Galactic Renekton,/images/champion/skins/portrait/renekton-galactic.jpg,1
+866,Outback Renekton,/images/champion/skins/portrait/renekton-outback.jpg,1
+867,Sailor Gangplank,/images/champion/skins/portrait/gangplank-sailor.jpg,1
+868,Pharaoh Nidalee,/images/champion/skins/portrait/nidalee-pharaoh.jpg,1
+869,Nurse Akali,/images/champion/skins/portrait/akali-nurse.jpg,1
+870,Classic Caitlyn,/images/champion/skins/portrait/caitlyn-classic.jpg,1
+871,Resistance Caitlyn,/images/champion/skins/portrait/caitlyn-resistance.jpg,1
+872,Sheriff Caitlyn,/images/champion/skins/portrait/caitlyn-sheriff.jpg,1
+873,Surgeon Shen,/images/champion/skins/portrait/shen-surgeon.jpg,1
+874,Re-Gifted Amumu,/images/champion/skins/portrait/amumu-re-gifted.jpg,1
+875,Classic Cassiopeia,/images/champion/skins/portrait/cassiopeia-classic.jpg,1
+876,Desperada Cassiopeia,/images/champion/skins/portrait/cassiopeia-desperada.jpg,1
+877,Siren Cassiopeia,/images/champion/skins/portrait/cassiopeia-siren.jpg,1
+878,Santa Gragas,/images/champion/skins/portrait/gragas-santa.jpg,1
+879,Reindeer Kog'Maw,/images/champion/skins/portrait/kogmaw-reindeer.jpg,1
+880,Candy Cane Miss Fortune,/images/champion/skins/portrait/miss-fortune-candy-cane.jpg,1
+881,Ragdoll Poppy,/images/champion/skins/portrait/poppy-ragdoll.jpg,1
+882,Nutcracko,/images/champion/skins/portrait/shaco-nutcracko.jpg,1
+883,Silent Night Sona,/images/champion/skins/portrait/sona-silent-night.jpg,1
+884,Surfer Singed,/images/champion/skins/portrait/singed-surfer.jpg,1
+885,Primal Udyr,/images/champion/skins/portrait/udyr-primal.jpg,1
+886,Blade Mistress Morgana,/images/champion/skins/portrait/morgana-blade-mistress.jpg,1
+887,Brolaf,/images/champion/skins/portrait/olaf-brolaf.jpg,1
+888,Classic Trundle,/images/champion/skins/portrait/trundle-classic.jpg,1
+889,Lil Slugger Trundle,/images/champion/skins/portrait/trundle-lil-slugger.jpg,1
+890,Junkyard Trundle,/images/champion/skins/portrait/trundle-junkyard.jpg,1
+891,Piltover Customs Heimerdinger,/images/champion/skins/portrait/heimerdinger-piltover-customs.jpg,1
+892,Freljord Rammus,/images/champion/skins/portrait/rammus-freljord.jpg,1
+893,Viscero Xin Zhao,/images/champion/skins/portrait/xin-zhao-viscero.jpg,1
+894,Classic Irelia,/images/champion/skins/portrait/irelia-classic.jpg,1
+895,Nightblade Irelia,/images/champion/skins/portrait/irelia-nightblade.jpg,1
+896,Aviator Irelia,/images/champion/skins/portrait/irelia-aviator.jpg,1
+897,Monarch Kog'Maw,/images/champion/skins/portrait/kogmaw-monarch.jpg,1
+898,Secret Agent Miss Fortune,/images/champion/skins/portrait/miss-fortune-secret-agent.jpg,1
+899,Feral Warwick,/images/champion/skins/portrait/warwick-feral.jpg,1
+900,Hextech Janna,/images/champion/skins/portrait/janna-hextech.jpg,1
+901,Karate Kennen,/images/champion/skins/portrait/kennen-karate.jpg,1
+902,Coral Reef Malphite,/images/champion/skins/portrait/malphite-coral-reef.jpg,1
+903,Classic LeBlanc,/images/champion/skins/portrait/leblanc-classic.jpg,1
+904,Prestigious LeBlanc,/images/champion/skins/portrait/leblanc-prestigious.jpg,1
+905,Wicked LeBlanc,/images/champion/skins/portrait/leblanc-wicked.jpg,1
+906,Pharaoh Nasus,/images/champion/skins/portrait/nasus-pharaoh.jpg,1
+907,Perseus Pantheon,/images/champion/skins/portrait/pantheon-perseus.jpg,1
+908,Divine Soraka,/images/champion/skins/portrait/soraka-divine.jpg,1
+909,Astronaut Teemo,/images/champion/skins/portrait/teemo-astronaut.jpg,1
+910,Classic Lux,/images/champion/skins/portrait/lux-classic.jpg,1
+911,Spellthief Lux,/images/champion/skins/portrait/lux-spellthief.jpg,1
+912,Sorceress Lux,/images/champion/skins/portrait/lux-sorceress.jpg,1
+913,Mundo Mundo,/images/champion/skins/portrait/dr-mundo-mundo-mundo.jpg,1
+914,Pumpkinhead Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-pumpkinhead.jpg,1
+915,Kitty Cat Katarina,/images/champion/skins/portrait/katarina-kitty-cat.jpg,1
+916,Lollipoppy,/images/champion/skins/portrait/poppy-lollipoppy.jpg,1
+917,Zombie Ryze,/images/champion/skins/portrait/ryze-zombie.jpg,1
+918,Nosferatu Vladimir,/images/champion/skins/portrait/vladimir-nosferatu.jpg,1
+919,Explorer Ezreal,/images/champion/skins/portrait/ezreal-explorer.jpg,1
+920,Gangster Twitch,/images/champion/skins/portrait/twitch-gangster.jpg,1
+921,Tango Evelynn,/images/champion/skins/portrait/evelynn-tango.jpg,1
+922,Professor Ryze,/images/champion/skins/portrait/ryze-professor.jpg,1
+923,Classic Swain,/images/champion/skins/portrait/swain-classic.jpg,1
+924,Northern Front Swain,/images/champion/skins/portrait/swain-northern-front.jpg,1
+925,Bilgewater Swain,/images/champion/skins/portrait/swain-bilgewater.jpg,1
+926,Tango Twisted Fate,/images/champion/skins/portrait/twisted-fate-tango.jpg,1
+927,Grim Reaper Karthus,/images/champion/skins/portrait/karthus-grim-reaper.jpg,1
+928,Pre-Void Kassadin,/images/champion/skins/portrait/kassadin-pre-void.jpg,1
+929,Barbarian Sion,/images/champion/skins/portrait/sion-barbarian.jpg,1
+930,Queen Ashe,/images/champion/skins/portrait/ashe-queen.jpg,1
+931,Pentakill Mordekaiser,/images/champion/skins/portrait/mordekaiser-pentakill.jpg,1
+932,Classic Sona,/images/champion/skins/portrait/sona-classic.jpg,1
+933,Muse Sona,/images/champion/skins/portrait/sona-muse.jpg,1
+934,Pentakill Sona,/images/champion/skins/portrait/sona-pentakill.jpg,1
+935,King Tryndamere,/images/champion/skins/portrait/tryndamere-king.jpg,1
+936,Corporate Mundo,/images/champion/skins/portrait/dr-mundo-corporate.jpg,1
+937,Ionia Master Yi,/images/champion/skins/portrait/master-yi-ionia.jpg,1
+938,Royal Shaco,/images/champion/skins/portrait/shaco-royal.jpg,1
+939,Commando Garen,/images/champion/skins/portrait/garen-commando.jpg,1
+940,Classic Miss Fortune,/images/champion/skins/portrait/miss-fortune-classic.jpg,1
+941,Cowgirl Miss Fortune,/images/champion/skins/portrait/miss-fortune-cowgirl.jpg,1
+942,Waterloo Miss Fortune,/images/champion/skins/portrait/miss-fortune-waterloo.jpg,1
+943,Veigar Greybeard,/images/champion/skins/portrait/veigar-veigar-greybeard.jpg,1
+944,Shurima Desert Zilean,/images/champion/skins/portrait/zilean-shurima-desert.jpg,1
+945,PAX Jax,/images/champion/skins/portrait/jax-pax.jpg,1
+946,Sinful Succulence Morgana,/images/champion/skins/portrait/morgana-sinful-succulence.jpg,1
+947,Triumphant Ryze,/images/champion/skins/portrait/ryze-triumphant.jpg,1
+948,Boom Boom Blitzcrank,/images/champion/skins/portrait/blitzcrank-boom-boom.jpg,1
+949,Bilgewater Katarina,/images/champion/skins/portrait/katarina-bilgewater.jpg,1
+950,Noxus Hunter Anivia,/images/champion/skins/portrait/anivia-noxus-hunter.jpg,1
+951,Blacksmith Poppy,/images/champion/skins/portrait/poppy-blacksmith.jpg,1
+952,Classic Urgot,/images/champion/skins/portrait/urgot-classic.jpg,1
+953,Giant Enemy Crabgot,/images/champion/skins/portrait/urgot-giant-enemy-crabgot.jpg,1
+954,Butcher Urgot,/images/champion/skins/portrait/urgot-butcher.jpg,1
+955,Riot Squad Singed,/images/champion/skins/portrait/singed-riot-squad.jpg,1
+956,Annie in Wonderland,/images/champion/skins/portrait/annie-annie-in-wonderland.jpg,1
+957,Hextech Singed,/images/champion/skins/portrait/singed-hextech.jpg,1
+958,Tundra Hunter Warwick,/images/champion/skins/portrait/warwick-tundra-hunter.jpg,1
+959,Bandito Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-bandito.jpg,1
+960,Classic Galio,/images/champion/skins/portrait/galio-classic.jpg,1
+961,Enchanted Galio,/images/champion/skins/portrait/galio-enchanted.jpg,1
+962,Hextech Galio,/images/champion/skins/portrait/galio-hextech.jpg,1
+963,Grungy Nunu &amp; Willump,/images/champion/skins/portrait/nunu-amp-willump-grungy.jpg,1
+964,Guerilla Tristana,/images/champion/skins/portrait/tristana-guerilla.jpg,1
+965,Emumu,/images/champion/skins/portrait/amumu-emumu.jpg,1
+966,Hillbilly Gragas,/images/champion/skins/portrait/gragas-hillbilly.jpg,1
+967,Deep One Kassadin,/images/champion/skins/portrait/kassadin-deep-one.jpg,1
+968,Hot Rod Corki,/images/champion/skins/portrait/corki-hot-rod.jpg,1
+969,Classic Vladimir,/images/champion/skins/portrait/vladimir-classic.jpg,1
+970,Count Vladimir,/images/champion/skins/portrait/vladimir-count.jpg,1
+971,Marquis Vladimir,/images/champion/skins/portrait/vladimir-marquis.jpg,1
+972,Groovy Zilean,/images/champion/skins/portrait/zilean-groovy.jpg,1
+973,Woad Ashe,/images/champion/skins/portrait/ashe-woad.jpg,1
+974,Frosted Ezreal,/images/champion/skins/portrait/ezreal-frosted.jpg,1
+975,Black Belt Udyr,/images/champion/skins/portrait/udyr-black-belt.jpg,1
+976,Alien Invader Heimerdinger,/images/champion/skins/portrait/heimerdinger-alien-invader.jpg,1
+977,Galactic Nasus,/images/champion/skins/portrait/nasus-galactic.jpg,1
+978,Molten Rammus,/images/champion/skins/portrait/rammus-molten.jpg,1
+979,Tempest Janna,/images/champion/skins/portrait/janna-tempest.jpg,1
+980,Transcended Kayle,/images/champion/skins/portrait/kayle-transcended.jpg,1
+981,Classic Xin Zhao,/images/champion/skins/portrait/xin-zhao-classic.jpg,1
+982,Commando Xin Zhao,/images/champion/skins/portrait/xin-zhao-commando.jpg,1
+983,Imperial Xin Zhao,/images/champion/skins/portrait/xin-zhao-imperial.jpg,1
+984,Medieval Twitch,/images/champion/skins/portrait/twitch-medieval.jpg,1
+985,Minuteman Gangplank,/images/champion/skins/portrait/gangplank-minuteman.jpg,1
+986,Statue of Karthus,/images/champion/skins/portrait/karthus-statue-of.jpg,1
+987,Uncle Ryze,/images/champion/skins/portrait/ryze-uncle.jpg,1
+988,All-Star Akali,/images/champion/skins/portrait/akali-all-star.jpg,1
+989,Red Card Katarina,/images/champion/skins/portrait/katarina-red-card.jpg,1
+990,Classic Kog'Maw,/images/champion/skins/portrait/kogmaw-classic.jpg,1
+991,Caterpillar Kog'Maw,/images/champion/skins/portrait/kogmaw-caterpillar.jpg,1
+992,Sonoran Kog'Maw,/images/champion/skins/portrait/kogmaw-sonoran.jpg,1
+993,French Maid Nidalee,/images/champion/skins/portrait/nidalee-french-maid.jpg,1
+994,Goalkeeper Blitzcrank,/images/champion/skins/portrait/blitzcrank-goalkeeper.jpg,1
+995,Striker Ezreal,/images/champion/skins/portrait/ezreal-striker.jpg,1
+996,Angler Jax,/images/champion/skins/portrait/jax-angler.jpg,1
+997,Classic Olaf,/images/champion/skins/portrait/olaf-classic.jpg,1
+998,Forsaken Olaf,/images/champion/skins/portrait/olaf-forsaken.jpg,1
+999,Glacial Olaf,/images/champion/skins/portrait/olaf-glacial.jpg,1
+1000,Mad Hatter Shaco,/images/champion/skins/portrait/shaco-mad-hatter.jpg,1
+1001,Spectacular Sivir,/images/champion/skins/portrait/sivir-spectacular.jpg,1
+1002,Chosen Master Yi,/images/champion/skins/portrait/master-yi-chosen.jpg,1
+1003,Dryad Soraka,/images/champion/skins/portrait/soraka-dryad.jpg,1
+1004,Firefighter Tristana,/images/champion/skins/portrait/tristana-firefighter.jpg,1
+1005,Viridian Kayle,/images/champion/skins/portrait/kayle-viridian.jpg,1
+1006,Classic Malzahar,/images/champion/skins/portrait/malzahar-classic.jpg,1
+1007,Shadow Prince Malzahar,/images/champion/skins/portrait/malzahar-shadow-prince.jpg,1
+1008,Vizier Malzahar,/images/champion/skins/portrait/malzahar-vizier.jpg,1
+1009,Exiled Morgana,/images/champion/skins/portrait/morgana-exiled.jpg,1
+1010,Hextech Sion,/images/champion/skins/portrait/sion-hextech.jpg,1
+1011,Masquerade Evelynn,/images/champion/skins/portrait/evelynn-masquerade.jpg,1
+1012,Chrome Rammus,/images/champion/skins/portrait/rammus-chrome.jpg,1
+1013,The Magnificent Twisted Fate,/images/champion/skins/portrait/twisted-fate-the-magnificent.jpg,1
+1014,Classic Akali,/images/champion/skins/portrait/akali-classic.jpg,1
+1015,Infernal Akali,/images/champion/skins/portrait/akali-infernal.jpg,1
+1016,Stinger Akali,/images/champion/skins/portrait/akali-stinger.jpg,1
+1017,Matador Alistar,/images/champion/skins/portrait/alistar-matador.jpg,1
+1018,Gentleman Cho'Gath,/images/champion/skins/portrait/chogath-gentleman.jpg,1
+1019,Scuba Gragas,/images/champion/skins/portrait/gragas-scuba.jpg,1
+1020,Bird of Prey Anivia,/images/champion/skins/portrait/anivia-bird-of-prey.jpg,1
+1021,Red Riding Annie,/images/champion/skins/portrait/annie-red-riding.jpg,1
+1022,Classic Garen,/images/champion/skins/portrait/garen-classic.jpg,1
+1023,Sanguine Garen,/images/champion/skins/portrait/garen-sanguine.jpg,1
+1024,Desert Trooper Garen,/images/champion/skins/portrait/garen-desert-trooper.jpg,1
+1025,Warrior Princess Sivir,/images/champion/skins/portrait/sivir-warrior-princess.jpg,1
+1026,Big Bad Warwick,/images/champion/skins/portrait/warwick-big-bad.jpg,1
+1027,Sherwood Forest Ashe,/images/champion/skins/portrait/ashe-sherwood-forest.jpg,1
+1028,Classic Kennen,/images/champion/skins/portrait/kennen-classic.jpg,1
+1029,Deadly Kennen,/images/champion/skins/portrait/kennen-deadly.jpg,1
+1030,Swamp Master Kennen,/images/champion/skins/portrait/kennen-swamp-master.jpg,1
+1031,Ruthless Pantheon,/images/champion/skins/portrait/pantheon-ruthless.jpg,1
+1032,Armor of the Fifth Age Taric,/images/champion/skins/portrait/taric-armor-of-the-fifth-age.jpg,1
+1033,Urf the Manatee Warwick,/images/champion/skins/portrait/warwick-urf-the-manatee.jpg,1
+1034,Red Baron Corki,/images/champion/skins/portrait/corki-red-baron.jpg,1
+1035,Mr. Mundoverse,/images/champion/skins/portrait/dr-mundo-mr.jpg,1
+1036,Classic Shen,/images/champion/skins/portrait/shen-classic.jpg,1
+1037,Yellow Jacket Shen,/images/champion/skins/portrait/shen-yellow-jacket.jpg,1
+1038,Frozen Shen,/images/champion/skins/portrait/shen-frozen.jpg,1
+1039,Classic Ezreal,/images/champion/skins/portrait/ezreal-classic.jpg,1
+1040,Nottingham Ezreal,/images/champion/skins/portrait/ezreal-nottingham.jpg,1
+1041,Spectral Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-spectral.jpg,1
+1042,Spooky Gangplank,/images/champion/skins/portrait/gangplank-spooky.jpg,1
+1043,Shamrock Malphite,/images/champion/skins/portrait/malphite-shamrock.jpg,1
+1044,Highland Tryndamere,/images/champion/skins/portrait/tryndamere-highland.jpg,1
+1045,Vandal Jax,/images/champion/skins/portrait/jax-vandal.jpg,1
+1046,Classic Mordekaiser,/images/champion/skins/portrait/mordekaiser-classic.jpg,1
+1047,Dragon Knight Mordekaiser,/images/champion/skins/portrait/mordekaiser-dragon-knight.jpg,1
+1048,Infernal Mordekaiser,/images/champion/skins/portrait/mordekaiser-infernal.jpg,1
+1049,Leopard Nidalee,/images/champion/skins/portrait/nidalee-leopard.jpg,1
+1050,Vancouver Amumu,/images/champion/skins/portrait/amumu-vancouver.jpg,1
+1051,Team Spirit Anivia,/images/champion/skins/portrait/anivia-team-spirit.jpg,1
+1052,Ice Toboggan Corki,/images/champion/skins/portrait/corki-ice-toboggan.jpg,1
+1053,Union Jack Fiddlesticks,/images/champion/skins/portrait/fiddlesticks-union-jack.jpg,1
+1054,The Mighty Jax,/images/champion/skins/portrait/jax-the-mighty.jpg,1
+1055,Festival Kassadin,/images/champion/skins/portrait/kassadin-festival.jpg,1
+1056,Whistler Village Twitch,/images/champion/skins/portrait/twitch-whistler-village.jpg,1
+1057,Curling Veigar,/images/champion/skins/portrait/veigar-curling.jpg,1
+1058,Jack of Hearts Twisted Fate,/images/champion/skins/portrait/twisted-fate-jack-of-hearts.jpg,1
+1059,Pharaoh Amumu,/images/champion/skins/portrait/amumu-pharaoh.jpg,1
+1060,Classic Gragas,/images/champion/skins/portrait/gragas-classic.jpg,1
+1061,Classic Pantheon,/images/champion/skins/portrait/pantheon-classic.jpg,1
+1062,Myrmidon Pantheon,/images/champion/skins/portrait/pantheon-myrmidon.jpg,1
+1063,Noxus Poppy,/images/champion/skins/portrait/poppy-noxus.jpg,1
+1064,Golden Alistar,/images/champion/skins/portrait/alistar-golden.jpg,1
+1065,Phantom Karthus,/images/champion/skins/portrait/karthus-phantom.jpg,1
+1066,Classic Poppy,/images/champion/skins/portrait/poppy-classic.jpg,1
+1067,Badger Teemo,/images/champion/skins/portrait/teemo-badger.jpg,1
+1068,UFO Corki,/images/champion/skins/portrait/corki-ufo.jpg,1
+1069,Earnest Elf Tristana,/images/champion/skins/portrait/tristana-earnest-elf.jpg,1
+1070,Old Saint Zilean,/images/champion/skins/portrait/zilean-old-saint.jpg,1
+1071,Toxic Dr. Mundo,/images/champion/skins/portrait/dr-mundo-toxic-dr.jpg,1
+1072,Assassin Master Yi,/images/champion/skins/portrait/master-yi-assassin.jpg,1
+1073,Classic Nidalee,/images/champion/skins/portrait/nidalee-classic.jpg,1
+1074,Recon Teemo,/images/champion/skins/portrait/teemo-recon.jpg,1
+1075,White Mage Veigar,/images/champion/skins/portrait/veigar-white-mage.jpg,1
+1076,Snow Bunny Nidalee,/images/champion/skins/portrait/nidalee-snow-bunny.jpg,1
+1077,Workshop Nunu &amp; Willump,/images/champion/skins/portrait/nunu-amp-willump-workshop.jpg,1
+1078,Happy Elf Teemo,/images/champion/skins/portrait/teemo-happy-elf.jpg,1
+1079,Riot Girl Tristana,/images/champion/skins/portrait/tristana-riot-girl.jpg,1
+1080,Grey Warwick,/images/champion/skins/portrait/warwick-grey.jpg,1
+1081,Classic Udyr,/images/champion/skins/portrait/udyr-classic.jpg,1
+1082,Freljord Ashe,/images/champion/skins/portrait/ashe-freljord.jpg,1
+1083,Rusty Blitzcrank,/images/champion/skins/portrait/blitzcrank-rusty.jpg,1
+1084,Nightmare Cho'Gath,/images/champion/skins/portrait/chogath-nightmare.jpg,1
+1085,Shadow Evelynn,/images/champion/skins/portrait/evelynn-shadow.jpg,1
+1086,Mercenary Katarina,/images/champion/skins/portrait/katarina-mercenary.jpg,1
+1087,Sasquatch Nunu &amp; Willump,/images/champion/skins/portrait/nunu-amp-willump-sasquatch.jpg,1
+1088,Emerald Taric,/images/champion/skins/portrait/taric-emerald.jpg,1
+1089,Kingpin Twitch,/images/champion/skins/portrait/twitch-kingpin.jpg,1
+1090,Goth Annie,/images/champion/skins/portrait/annie-goth.jpg,1
+1091,Silver Kayle,/images/champion/skins/portrait/kayle-silver.jpg,1
+1092,King Rammus,/images/champion/skins/portrait/rammus-king.jpg,1
+1093,Classic Heimerdinger,/images/champion/skins/portrait/heimerdinger-classic.jpg,1
+1094,Classic Shaco,/images/champion/skins/portrait/shaco-classic.jpg,1
+1095,Classic Nasus,/images/champion/skins/portrait/nasus-classic.jpg,1
+1096,Classic Corki,/images/champion/skins/portrait/corki-classic.jpg,1

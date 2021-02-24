@@ -11,9 +11,9 @@ import csv
 import logging
 
 class QueryData(Resource):
-    def get(self):
-
+    def get(self, ):
+        champion1 = Champion.query.first()
         return jsonify({
-            'Dataload': 'succesvol'
+            'Dataload': champion1.ChampName
         })
 
