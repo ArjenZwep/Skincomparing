@@ -12,8 +12,12 @@ import logging
 
 class RefreshData(Resource):
     def get(self):
-        db.session.query(Champion).delete()
-        db.session.query(Skin).delete()
+        tables = ['skins', 'champions', 'matches']
+
+        #truncate previous data
+        db.session.execute(f'TRUNCATE {", ".join(str(x) for x in tables)} RESTART IDENTITY;')
+
+        #load in Champion data
         with open("champions.csv", "r") as f:
             reader = csv.reader(f)
             for row in reader:
@@ -21,7 +25,8 @@ class RefreshData(Resource):
                 db.session.add(champion_data)
                 db.session.commit()
 
-        with open("skins.csv", "r") as j:
+        #load in Skin data
+        with open("/Users/arjen.zwep/Programs/skincompare/Skincomparing/api/resources/skinsgoed.csv", "r") as j:
             reader = csv.reader(j)
             for row in reader:
                 skin_data = Skin(row[1], f'https://www.mobafire.com{row[2]}')

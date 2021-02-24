@@ -8,7 +8,7 @@ db_uri = f"postgresql://test:Test123!@localhost:5432/skintable"
 #db_uri = f"sqlite:///{basedir}"
 
 class Config:
-    DEBUG = False
+    DEBUG = True
     TESTING = False
     CSRF_ENABLED = True
     SECRET_KEY = os.getenv("SECRET_KEY", "$SECRET_KEY not set")
