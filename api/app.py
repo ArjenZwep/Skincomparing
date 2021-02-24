@@ -23,6 +23,8 @@ def create_app():
     
     from resources.skinmatch import SkinMatchApi
     api.add_resource(SkinMatchApi, '/skin')
+    from resources.loaddata import LoadData
+    api.add_resource(LoadData, '/load')
 
     api.init_app(app)
     db.init_app(app)
@@ -34,14 +36,8 @@ def create_app():
 
     migrate.init_app(app, db)
 
-    basedir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Sqlite/skinapp.db'))
-
     # params = parse.quote_plus(os.environ["DB_CONN_STRING"])
     # db_uri = f"postgresql://test:Test123!@localhost:5432/skintable"
-    db_uri = f"sqlite:///{basedir}'"
-
-    #@app.before_request
-    #def before_request_func():
 
     return app
 

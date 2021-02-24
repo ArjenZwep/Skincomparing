@@ -5,7 +5,6 @@ import numpy as np
 import os
 from flask import request, jsonify
 from app import db
-import sqlite3
 
 import logging
 
@@ -32,16 +31,10 @@ class SkinMatchApi(Resource):
         logging.critical(number2)
         skin1 = Skin.query.filter_by(id=number1).first()
         skin2 = Skin.query.filter_by(id=number2).first()
+        champ1 = Champion.query.filter_by(id=0).first()
         return jsonify({
-                'first': {
-                    'id' : skin1.id,
-                    'skin' : skin1.SkinName,
-                    'img' : skin1.SkinImg},
-                'second': {
-                    'id' : skin2.id,
-                    'skin' : skin2.SkinName,
-                    'img' : skin2.SkinImg}
-                })
+            'championheet' : champ1.ChampName
+        })
 
     def post(self):
         winner = request.json['winnerid']
