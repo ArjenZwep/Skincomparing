@@ -54,3 +54,4 @@ class SkinMatchApi(Resource):
         match_data = Match(winner, loser)
         db.session.add(match_data)
         db.session.commit()
+        return 'Update succesful'

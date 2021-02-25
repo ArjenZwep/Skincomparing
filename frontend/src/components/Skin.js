@@ -11,7 +11,7 @@ export default function Skin(props) {
                 {props.name}
             </Typography>
             {/* <img src={process.env.PUBLIC_URL + '/'+props.imgname+'.jpg'} width="100%" height="100%"/> */}
-            <img src={'https://www.mobafire.com/images/champion/skins/portrait/reksai-blackfrost.jpg'} width="100%" height="100%"/>
+             <img src={props.imgname} width="100%" height="100%"/>
         </div>
     )
 }

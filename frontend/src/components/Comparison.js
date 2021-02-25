@@ -15,10 +15,10 @@ export default function Comparison(props) {
 
     // Fetch two championsskins here
     async function getComparison() {
-        let res = await axios.get("/api/skin");
+        let res = await axios.get("/skin");
         if (res.status===200){
-            console.log(res.data);
-            console.log("Niet gelukt")
+            setSkinOne({name: res.data["skin1name"], imgurl: res.data["skin1img"]})
+            setSkinTwo({name: res.data["skin2name"], imgurl: res.data["skin2img"]});
         } else {
             console.log("Invalid Query");
         }     
