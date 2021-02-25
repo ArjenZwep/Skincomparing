@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Grid, Paper, ThemeProvider, Typography } from '@material-ui/core';
+import {useSpring, animated} from 'react-spring';
+
 
 import Skin from './Skin'
 import useStyles from '../styles';
@@ -8,7 +10,7 @@ import useStyles from '../styles';
 
 export default function Comparison(props) {
     let classes = useStyles();
-
+    const fade = useSpring({opacity: 1, from: {opacity: 0}})
     let [skinOne, setSkinOne] = useState({name: "Hextech Sejuani", imgurl: "pskin1", id: 0})
     let [skinTwo, setSkinTwo] = useState({name: "Heartseeker Jinx", imgurl: "pskin2", id: 0})
 
@@ -44,13 +46,14 @@ export default function Comparison(props) {
     <div className={classes.content}>
         <Grid container justify="center">
             {/* Some spacing */}
-            <Grid item xs={1} sm={1} md={1} lg={1} xl={1}/> 
-            
-            <Grid item xs={4} sm={4} md={4} lg={4} xl={4}>
-                <Paper className={classes.skinCard} onClick={() => refreshSkins(skinOne.id, skinTwo.id)}>
-                    <Skin imgname={skinOne.imgurl} name={skinOne.name}/>
-                </Paper>
-            </Grid>
+            <Grid item xs={1} sm={1} md={1} lg={1} xl={1}/>
+            <animated.div style={fade}>
+                <Grid item xs={4} sm={4} md={4} lg={4} xl={4}>
+                    <Paper className={classes.skinCard} onClick={() => refreshSkins(skinOne.id, skinTwo.id)}>
+                        <Skin imgname={skinOne.imgurl} name={skinOne.name}/>
+                    </Paper>
+                </Grid>
+            </animated.div>
             {/* Add here some VS logo  */}
             <Grid item xs={1} sm={1} md={1} lg={1} xl={1}>
                 <div className={classes.versus}>
