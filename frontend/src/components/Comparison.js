@@ -9,25 +9,30 @@ import useStyles from '../styles';
 export default function Comparison(props) {
     let classes = useStyles();
 
-    let [skinOne, setSkinOne] = useState({name: "Hextech Sejuani", imgurl: "pskin1"})
-    let [skinTwo, setSkinTwo] = useState({name: "Heartseeker Jinx", imgurl: "pskin2"})
+    let [skinOne, setSkinOne] = useState({name: "Hextech Sejuani", imgurl: "pskin1", id: 0})
+    let [skinTwo, setSkinTwo] = useState({name: "Heartseeker Jinx", imgurl: "pskin2", id: 0})
 
 
     // Fetch two championsskins here
     async function getComparison() {
         let res = await axios.get("/skin");
         if (res.status===200){
-            setSkinOne({name: res.data["skin1name"], imgurl: res.data["skin1img"]})
-            setSkinTwo({name: res.data["skin2name"], imgurl: res.data["skin2img"]});
+            setSkinOne({name: res.data["skin1name"], imgurl: res.data["skin1img"], id: res.data["skin1id"]})
+            setSkinTwo({name: res.data["skin2name"], imgurl: res.data["skin2img"], id: res.data["skin2id"]});
         } else {
             console.log("Invalid Query");
-        }     
-        console.log("Niet gelukt?")
+        }
     }
 
     // Post the winner back to the backend to be stored in the database
-    function postWinner() {
+    function postWinner(winner, loser) {
+        console.log(winner)
+        let res = axios.post(`/skin?winnerId=${winner}&loserId=${loser}`);
+    }
 
+    function refreshSkins(winner, loser){
+        postWinner(winner, loser);
+        getComparison();
     }
 
     useEffect(() => {
@@ -42,7 +47,7 @@ export default function Comparison(props) {
             <Grid item xs={1} sm={1} md={1} lg={1} xl={1}/> 
             
             <Grid item xs={4} sm={4} md={4} lg={4} xl={4}>
-                <Paper className={classes.skinCard} onClick={() => console.log("Clicked "+ skinOne.name)}>
+                <Paper className={classes.skinCard} onClick={() => refreshSkins(skinOne.id, skinTwo.id)}>
                     <Skin imgname={skinOne.imgurl} name={skinOne.name}/>
                 </Paper>
             </Grid>
@@ -56,7 +61,7 @@ export default function Comparison(props) {
             </Grid>
 
             <Grid item xs={4} sm={4} md={4} lg={4} xl={4}>
-                <Paper className={classes.skinCard} onClick={() => console.log("Clicked "+skinTwo.name)}>
+                <Paper className={classes.skinCard} onClick={() => refreshSkins(skinTwo.id, skinOne.id)}>
                     <Skin imgname={skinTwo.imgurl} name={skinTwo.name}/>
                 </Paper>
             </Grid>

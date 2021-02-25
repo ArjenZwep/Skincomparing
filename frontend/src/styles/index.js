@@ -19,8 +19,8 @@ const useStyles = makeStyles(theme => ({
     },
     skinCard: {
       margin: "auto",
-      height: "70vh",
-      width: "50vh",
+      height: "60vh",
+      width: "33vh",
       overflow: "hidden"
     },
     skinImg: {
