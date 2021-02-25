@@ -1,6 +1,7 @@
 from flask_restful import Resource
 from models.Champion import Champion
 from models.Skin import Skin
+from models.Match import Match
 import numpy as np
 import os
 from flask import request, jsonify
@@ -20,6 +21,7 @@ import logging
 #     return render_template(os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'frontend', 'public')) +  '\index.html')
 
 class SkinMatchApi(Resource):
+    #Querys the 2 random skins needed to be shown
     def get(self):
         number1 = np.random.randint(1, 1050)
         number2 = np.random.randint(1, 1050)
@@ -31,18 +33,24 @@ class SkinMatchApi(Resource):
         logging.critical(number2)
         skin1 = Skin.query.filter_by(id=number1).first()
         skin2 = Skin.query.filter_by(id=number2).first()
-        champ1 = Champion.query.filter_by(id=0).first()
         return jsonify({
-            'championheet' : champ1.ChampName
+            'skin1name': skin1.SkinName,
+            'skin1img': skin1.SkinImg,
+            'skin1id': skin1.id,
+            'skin2name': skin2.SkinName,
+            'skin2img': skin2.SkinImg,
+            'skin2id': skin2.id,
         })
 
     def post(self):
-        winner = request.json['winnerid']
-        loser = request.json['loserid']
-        skinwin = Skin.query.get(winner)
-        skinloss = Skin.query.get(loser)
-        skinwin.RankingScore += 10
-        skinwin.AmountOfWins += 1
-        skinloss.RankingScore -= 10
-        skinloss.AmountOfLosses -= 10
+        loser = request.args.get("loserId")
+        winner = request.args.get("winnerId")
+        skinLoss = Skin.query.get(loser)
+        skinWin = Skin.query.get(winner)
+        skinWin.RankingScore += 10
+        skinWin.AmountOfWins += 1
+        skinLoss.RankingScore -= 10
+        skinLoss.AmountOfLosses += 1
+        match_data = Match(winner, loser)
+        db.session.add(match_data)
         db.session.commit()
