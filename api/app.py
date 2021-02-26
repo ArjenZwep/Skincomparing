@@ -25,8 +25,6 @@ def create_app():
     api.add_resource(SkinMatchApi, '/skin')
     from resources.loaddata import RefreshData
     api.add_resource(RefreshData, '/load')
-    from resources.querydata import QueryData
-    api.add_resource(QueryData, '/query')
 
     api.init_app(app)
     db.init_app(app)

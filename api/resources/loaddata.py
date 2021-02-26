@@ -28,6 +28,7 @@ class RefreshData(Resource):
         #load in Skin data
         with open("/Users/arjen.zwep/Programs/skincompare/Skincomparing/api/resources/skinsgoed.csv", "r") as j:
             reader = csv.reader(j)
+            next(reader, None)
             for row in reader:
                 skin_data = Skin(row[1], f'https://www.mobafire.com{row[2]}')
                 db.session.add(skin_data)

@@ -2,6 +2,7 @@ from flask_restful import Resource
 from models.Champion import Champion
 from models.Skin import Skin
 from models.Match import Match
+from .fiderating import expected, elo
 import numpy as np
 import os
 from flask import request, jsonify
@@ -43,15 +44,26 @@ class SkinMatchApi(Resource):
         })
 
     def post(self):
+        #Gets the json from the frontend
         loser = request.args.get("loserId")
         winner = request.args.get("winnerId")
+
+        #Querys skins from database
         skinLoss = Skin.query.get(loser)
         skinWin = Skin.query.get(winner)
-        skinWin.RankingScore += 10
+
+        #calculates new fide rating
+        eloWinner = elo(skinWin.RankingScore, expected(skinWin.RankingScore, skinLoss.RankingScore), 1)
+        eloLoser = elo(skinLoss.RankingScore, expected(skinLoss.RankingScore, skinWin.RankingScore), 0)
+
+        #update data for skins
+        skinWin.RankingScore = eloWinner
         skinWin.AmountOfWins += 1
-        skinLoss.RankingScore -= 10
+        skinLoss.RankingScore = eloLoser
         skinLoss.AmountOfLosses += 1
-        match_data = Match(winner, loser)
+
+        #input matchdata
+        match_data = Match(int(winner), int(loser))
         db.session.add(match_data)
         db.session.commit()
         return 'Update succesful'

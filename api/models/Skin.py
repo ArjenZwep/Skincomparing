@@ -19,7 +19,7 @@ class Skin(db.Model):
         self.SkinImg = SkinImg
         #self.RarityTier = RarityTier
         self.ReleaseDate = datetime.now()
-        self.RankingScore = 0
+        self.RankingScore = 1500
         self.AmountOfWins = 0
         self.AmountOfLosses = 0
         #self.Champion_id = Champion

@@ -27,11 +27,9 @@ def upgrade():
     )
     matches = op.create_table('matches',
     sa.Column('id', sa.Integer(), nullable=False),
-    sa.Column('Skin_Id_1', sa.Integer(), nullable=True),
-    sa.Column('Skin_Id_2', sa.Integer(), nullable=True),
+    sa.Column('Skin_Id_Winner', sa.Integer(), nullable=True),
+    sa.Column('Skin_Id_Loser', sa.Integer(), nullable=True),
     sa.Column('MatchDate', sa.DateTime(), nullable=True),
-    sa.Column('Skin_Id_1_Won', sa.Boolean(), nullable=True),
-    sa.Column('Skin_Id_2_Won', sa.Boolean(), nullable=True),
     sa.PrimaryKeyConstraint('id')
     )
     skins = op.create_table('skins',
