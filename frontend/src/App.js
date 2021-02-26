@@ -1,20 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-
-import useStyles from "./styles/index"
-import Title from './components/Title'
-import Comparison from "./components/Comparison"
-
-
+import Main from "./Main"
 
 function App() {
-  let classes = useStyles();
-  return (
-    <div className={classes.root}>
-        <Title />
-        <Comparison/>
-    </div>
-  );
+    return (
+        <div className="App">
+            <Main />
+        </div>
+
+    );
 }
 
 export default App;
