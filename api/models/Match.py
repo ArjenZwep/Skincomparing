@@ -10,6 +10,6 @@ class Match(db.Model):
     matchdate = db.Column(db.DateTime)
 
     def __init__(self, skin_id_winner, skin_id_loser):
-        self.skin_Id_winner = skin_id_winner
-        self.skin_Id_loser = skin_id_loser
+        self.skin_id_winner = skin_id_winner
+        self.skin_id_loser = skin_id_loser
         self.matchdate = datetime.now()

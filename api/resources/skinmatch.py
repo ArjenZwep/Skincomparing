@@ -45,12 +45,12 @@ class SkinMatchApi(Resource):
 
     def post(self):
         #Gets the json from the frontend
-        loser = request.args.get("loserId")
-        winner = request.args.get("winnerId")
+        loser = request.args.get
+        winner = request.args.get
 
         #Querys skins from database
-        skinLoss = Skin.query.get(loser)
-        skinWin = Skin.query.get(winner)
+        skinLoss = Skin.query.get
+        skinWin = Skin.query.get
 
         #calculates new fide rating
         eloWinner = elo(skinWin.RankingScore, expected(skinWin.RankingScore, skinLoss.RankingScore), 1)
@@ -63,7 +63,7 @@ class SkinMatchApi(Resource):
         skinLoss.AmountOfLosses += 1
 
         #input matchdata
-        match_data = Match(int(winner), int(loser))
+        match_data = Match(int(skinWin.id), int(skinLoss.id))
         db.session.add(match_data)
         db.session.commit()
         return 'Update succesful'

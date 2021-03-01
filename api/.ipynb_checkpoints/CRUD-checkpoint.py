@@ -3,7 +3,7 @@ import numpy as np
 
 @app.route("/random", methods=["GET", "POST"])
 def random():
-    title = request.form.get("title")
+    title = request.form.get
     book = Book.query.filter_by(title=title).first()
     db.session.delete(book)
     db.session.commit()

@@ -29,7 +29,7 @@ for i in range(27):
         skin = soup.select(f'#content > div > div.self-clear.mf-redesign > div:nth-child(2) > div > a:nth-child({i + 1}) > div.champ-skins__item__meta > h3')
         for menu_item in menu:
             item = skin[0]
-            link = menu_item.get("href")
+            link = menu_item.get
             imgage = img[0]
             person ={
                 "skin" : item,
