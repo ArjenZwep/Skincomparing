@@ -10,13 +10,13 @@ import useStyles from '../styles';
 export default function Topten(props) {
     let classes = useStyles();
     const fade = useSpring({opacity: 1, from: {opacity: 0}})
-    let [skinOne, setSkinOne] = useState({name: "Hextech Sejuani", imgurl: "pskin1", id: 0})
-    let [skinTwo, setSkinTwo] = useState({name: "Heartseeker Jinx", imgurl: "pskin2", id: 0})
+    let [Rankinglist, setRankingList] = useState({"Name": [], "Rank": []});
+
 
 
     // Fetch two championsskins here
     async function getComparison() {
-        let res = await axios.get("/skin");
+        let res = await axios.get("/topten");
         if (res.status===200){
             setSkinOne({name: res.data["skin1name"], imgurl: res.data["skin1img"], id: res.data["skin1id"]})
             setSkinTwo({name: res.data["skin2name"], imgurl: res.data["skin2img"], id: res.data["skin2id"]});

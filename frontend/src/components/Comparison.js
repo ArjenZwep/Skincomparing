@@ -14,7 +14,6 @@ export default function Comparison(props) {
     let [skinOne, setSkinOne] = useState({name: "Hextech Sejuani", imgurl: "pskin1", id: 0})
     let [skinTwo, setSkinTwo] = useState({name: "Heartseeker Jinx", imgurl: "pskin2", id: 0})
 
-
     // Fetch two championsskins here
     async function getComparison() {
         let res = await axios.get("/skin");
