@@ -27,6 +27,12 @@ const useStyles = makeStyles(theme => ({
       position: 'relative',
       height: "100%"
     },
+    dataPage: {
+        margin: "auto",
+        height: "60vh",
+        width: "33vh",
+        overflow: "hidden"
+    },
     versus: {
       paddingTop: "30vh"
     },
@@ -35,10 +41,14 @@ const useStyles = makeStyles(theme => ({
       color: "#fff",
       display: "inline",
       padding: "0.5rem",
+
       
       // -webkit-box-decoration-break: clone;
       // box-decoration-break: clone;
     },
+    datalist: {
+        backgroundcoler: "lightblue"
+    }
 
 }));
 
