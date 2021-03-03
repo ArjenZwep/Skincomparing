@@ -12,9 +12,12 @@ class TopTen(Resource):
     def get(self):
         qry = Skin.query.order_by(desc(Skin.RankingScore)).limit(10)
         ten_list = {}
-        count = 0
+        array_name = []
+        array_score = []
         for query in qry:
-            ten_list[count + 1] = [qry[count].SkinName, qry[count].RankingScore]
-            count += 1
+            array_name.append(query.SkinName)
+            array_score.append(query.RankingScore)
+        ten_list["names"] = array_name
+        ten_list["scores"] = array_score
         return jsonify(ten_list)
 

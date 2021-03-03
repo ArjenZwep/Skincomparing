@@ -15,24 +15,19 @@ export default function Topten(props) {
 
 
     // Fetch two championsskins here
-    async function getComparison() {
+    async function getList() {
         let res = await axios.get("/topten");
         if (res.status===200){
-            setRankingList({name: res.data, rank: res.data});
+            setRankingList({name: res.data["names"], rank: res.data["scores"]})
         } else {
             console.log("Invalid Query");
         }
     }
 
-    // Post the winner back to the backend to be stored in the database
-    function postWinner(winner, loser) {
-        console.log(winner)
-        let res = axios.post(`/skin?winnerId=${winner}&loserId=${loser}`);
-    }
-
+    console.log(Rankinglist.rank)
 
     useEffect(() => {
-        getComparison()
+        getList()
     }, [])
 
 
@@ -41,13 +36,13 @@ export default function Topten(props) {
             <Grid container justify="center">
                 <Grid item xs={1} sm={1} md={1} lg={1} xl={1}/>
                     <Grid item xs={4} sm={4} md={4} lg={4} xl={4}>
-                            <Datalist imgname={Rankinglist.name[0]} name={Rankinglist.rank[0]}/>
+                            <Datalist name={Rankinglist.name[0]} number={Rankinglist.rank[0]}/>
                             <br/>
-                            <Datalist imgname={Rankinglist.name[1]} name={Rankinglist.rank[1]}/>
+                            <Datalist name={Rankinglist.name[1]} number={Rankinglist.rank[1]}/>
                             <br/>
-                            <Datalist imgname={Rankinglist.name[2]} name={Rankinglist.rank[2]}/>
+                            <Datalist name={Rankinglist.name[2]} number={Rankinglist.rank[2]}/>
                             <br/>
-                            <Datalist imgname={Rankinglist.name[3]} name={Rankinglist.rank[3]}/>
+                            <Datalist name={Rankinglist.name[3]} number={Rankinglist.rank[3]}/>
                     </Grid>
             </Grid>
         </div>
