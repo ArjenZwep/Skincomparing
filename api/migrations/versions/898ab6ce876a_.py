@@ -50,3 +50,5 @@ def downgrade():
     op.drop_table('matches')
     op.drop_table('champions')
     # ### end Alembic commands ###
+
+upgrade()
