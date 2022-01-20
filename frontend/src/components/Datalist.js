@@ -6,7 +6,7 @@ import { Typography} from '@material-ui/core';
 export default function Datalist(props) {
     let classes = useStyles();
     return(
-        <div className={classes.Datalist}>
+        <div className="flex-col">
             <Typography display="block" className={classes.Datalist} variant={'overline'}>
                 {props.number}
             </Typography>
