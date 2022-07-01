@@ -44,8 +44,11 @@ class RefreshData(Resource):
         tables = ['skins', 'champions', 'matches']
 
         #truncate previous data
-        db.session.execute(f'TRUNCATE {", ".join(str(x) for x in tables)} RESTART IDENTITY;')
-
+        try:
+            db.session.execute(f'TRUNCATE {", ".join(str(x) for x in tables)} RESTART IDENTITY;')
+        except:
+            db.session.rollback()
+        db.session.commit()
         #load in Champion data
         # with open("champions.csv", "r") as f:
         #     reader = csv.reader(f)
@@ -55,14 +58,18 @@ class RefreshData(Resource):
         #         db.session.commit()
 
         #load in Skin data
-        with open("/Users/arjenzwep/Documents/Programmeren/Skincomparing/api/resources/skinsgoed.csv", "r") as j:
+        import os.path
+        import sys
+        with open("resources/skinsgoed.csv", "r") as j:
             reader = csv.reader(j)
             next(reader, None)
+            count = 0
             for row in reader:
                 #print(f'hallo dit is de roow zie hem {row}')
-                skin_data = Skin(row[1], f'https://www.mobafire.com{row[2]}')
+                skin_data = Skin(count, row[1], f'https://www.mobafire.com{row[2]}')
                 db.session.add(skin_data)
                 db.session.commit()
+                count += 1
         return jsonify({
             'SkinName': 'Dark Cosmic Lux',
             'SkinImage' : '/images/champion/skins/portrait/lux-dark-cosmic.jpg'

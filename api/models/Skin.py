@@ -5,21 +5,22 @@ class Skin(db.Model):
     __tablename__ = 'skins'
 
     id = db.Column(db.Integer, primary_key=True)
-    SkinName = db.Column(db.String(100))
-    SkinImg = db.Column(db.String(100))
+    skinname = db.Column(db.String(100))
+    skinimg = db.Column(db.String(100))
     #RarityTier = db.Column(db.String(32))
-    ReleaseDate = db.Column(db.DateTime)
-    RankingScore = db.Column(db.Integer)
-    AmountOfWins = db.Column(db.Integer)
-    AmountOfLosses = db.Column(db.Integer)
+    releasedate = db.Column(db.DateTime)
+    rankingscore = db.Column(db.Integer)
+    amountofwins = db.Column(db.Integer)
+    amountoflosses = db.Column(db.Integer)
     #Champion_id = db.Column(db.Integer, db.ForeignKey('champions.id'), nullable=False)
 
-    def __init__(self, SkinName, SkinImg):
-        self.SkinName = SkinName
-        self.SkinImg = SkinImg
+    def __init__(self, id, skinname, skinimg):
+        self.id = id
+        self.skinname = skinname
+        self.skinimg = skinimg
         #self.RarityTier = RarityTier
-        self.ReleaseDate = datetime.now()
-        self.RankingScore = 1500
-        self.AmountOfWins = 0
-        self.AmountOfLosses = 0
+        self.releasedate = datetime.now()
+        self.rankingscore = 1500
+        self.amountofwins = 0
+        self.amountoflosses = 0
         #self.Champion_id = Champion
