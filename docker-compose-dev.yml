@@ -8,7 +8,7 @@ services:
     volumes:
       - "./api:/srv/flask_app"
     ports:
-      - "5000"
+      - "5001"
     depends_on: 
       - skinselector_database
 

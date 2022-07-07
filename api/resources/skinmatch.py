@@ -35,11 +35,11 @@ class SkinMatchApi(Resource):
         skin1 = Skin.query.filter_by(id=number1).first()
         skin2 = Skin.query.filter_by(id=number2).first()
         return jsonify({
-            'skin1name': skin1.SkinName,
-            'skin1img': skin1.SkinImg,
+            'skin1name': skin1.skinname,
+            'skin1img': skin1.skinimg,
             'skin1id': skin1.id,
-            'skin2name': skin2.SkinName,
-            'skin2img': skin2.SkinImg,
+            'skin2name': skin2.skinname,
+            'skin2img': skin2.skinimg,
             'skin2id': skin2.id,
         })
 
