@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Grid, Paper, ThemeProvider, Typography } from '@material-ui/core';
 import {useSpring, animated} from 'react-spring';
+import { SectionDivider } from '../../styles/GlobalComponents';
 
 
 import Skin from '../Skin/Skin'
@@ -43,18 +44,19 @@ export default function Comparison(props) {
 
     return(
     <div className={classes.content}>
-        <Grid container>
+        <SectionDivider />
+        <Grid container style={'grid-auto-rows: 1fr'}>
             {/* Some spacing */}
-            <Grid item xs={1} sm={1} md={1} lg={1} xl={1}/>
+            <Grid item />
             <animated.div style={fade}>
-                <Grid item xs={10} sm={10} md={10} lg={3} xl={10}>
+                <Grid>
                     <Paper className={classes.skinCard} onClick={() => refreshSkins(skinOne.id, skinTwo.id)}>
                         <Skin imgname={skinOne.imgurl} name={skinOne.name}/>
                     </Paper>
                 </Grid>
             </animated.div>
             {/* Add here some VS logo  */}
-            <Grid item xs={1} sm={1} md={1} lg={1} xl={1}>
+            <Grid>
                 <div className={classes.versus}>
                     <Typography variant="h4">
                         VS
@@ -62,7 +64,7 @@ export default function Comparison(props) {
                 </div>
             </Grid>
 
-            <Grid item xs={10} sm={10} md={10} lg={3} xl={10}>
+            <Grid>
                 <Paper className={classes.skinCard} onClick={() => refreshSkins(skinTwo.id, skinOne.id)}>
                     <Skin imgname={skinTwo.imgurl} name={skinTwo.name}/>
                 </Paper>
