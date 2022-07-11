@@ -14,7 +14,6 @@ const Hero = (props) => (
         <SectionText>
         Vote now on your favorite skins.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
     </Section>
   </>

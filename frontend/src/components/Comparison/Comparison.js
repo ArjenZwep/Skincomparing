@@ -44,8 +44,7 @@ export default function Comparison(props) {
 
     return(
     <div className={classes.content}>
-        <SectionDivider />
-        <Grid container style={'grid-auto-rows: 1fr'}>
+        <div className={classes.skinGrid}>
             {/* Some spacing */}
             <Grid item />
             <animated.div style={fade}>
@@ -71,7 +70,7 @@ export default function Comparison(props) {
             </Grid>
             {/* Some spacing */}
             <Grid item xs={1} sm={1} md={1} lg={1} xl={1}/>
-        </Grid>
+        </div>
     </div>
     )
 }

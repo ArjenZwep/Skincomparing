@@ -7,6 +7,10 @@ const comparisonStyles = makeStyles(theme => ({
       flexDirection: "column",
       alignItems: "center",
       justifyContent: "center"
+    },
+    skinGrid: {
+      display: "grid",
+      gridTemplateColumns: "repeat(3, 1fr)"
     }
     
 }));

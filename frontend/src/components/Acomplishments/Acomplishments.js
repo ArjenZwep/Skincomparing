@@ -1,6 +1,7 @@
 import React from 'react';
 
-import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionDivider, SectionTitle} from '../../styles/GlobalComponents';
+import Button from '../../styles/GlobalComponents/Button';
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
@@ -10,7 +11,7 @@ const data = [
   { number: 5000, text: 'Github Stars', }
 ];
 
-const Acomplishments = () => (
+const Acomplishments = (props) => (
   <Section>
     <SectionTitle>Personal Achievements</SectionTitle>
     <Boxes>
@@ -21,6 +22,7 @@ const Acomplishments = () => (
         </Box>
       ))}
     </Boxes>
+    <Button onClick={props.handleClick}>See more</Button>
     <SectionDivider/>
   </Section>
 );
