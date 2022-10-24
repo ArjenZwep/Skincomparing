@@ -29,6 +29,8 @@ def create_app():
     api.add_resource(TopTen, '/topten')
     from resources.refreshtable import RefreshTable
     api.add_resource(RefreshTable, '/table')
+    from resources.statistics import LoadStats
+    api.add_resource(LoadStats, '/stats')
 
     api.init_app(app)
     db.init_app(app)

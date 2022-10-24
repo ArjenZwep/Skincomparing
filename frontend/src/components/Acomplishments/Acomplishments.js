@@ -4,6 +4,8 @@ import { Section, SectionDivider, SectionTitle} from '../../styles/GlobalCompone
 import Button from '../../styles/GlobalComponents/Button';
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
+
+
 const data = [
   { number: 20, text: 'Open Source Projects'},
   { number: 1000, text: 'Students', },

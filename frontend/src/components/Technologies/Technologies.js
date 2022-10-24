@@ -10,10 +10,10 @@ import Skin from '../Skin/Skin'
 export default function Technologies(props) {
   let [skinOne, setSkinOne] = useState({name: "Hextech Sejuani", imgurl: "https://www.mobafire.com/images/champion/skins/landscape/sejuani-hextech-762x.jpg", id: 0})
   let [skinTwo, setSkinTwo] = useState({name: "Heartseeker Jinx", imgurl: "https://www.mobafire.com/images/champion/skins/landscape/jinx-heartseeker-762x.jpg", id: 0})
-
+  const baseUrl = 'http://localhost:5000'
   // Fetch two championsskins here
   async function getComparison() {
-      let res = await axios.get("/skin");
+      let res = await axios.get(`${baseUrl}/skin`);
       if (res.status===200){
           setSkinOne({name: res.data["skin1name"], imgurl: res.data["skin1img"], id: res.data["skin1id"]})
           setSkinTwo({name: res.data["skin2name"], imgurl: res.data["skin2img"], id: res.data["skin2id"]});
@@ -25,7 +25,7 @@ export default function Technologies(props) {
   // Post the winner back to the backend to be stored in the database
   function postWinner(winner, loser) {
       console.log(winner)
-      let res = axios.post(`/skin?winnerId=${winner}&loserId=${loser}`);
+      let res = axios.post(`${baseUrl}/skin?winnerId=${winner}&loserId=${loser}`);
   }
 
   function refreshSkins(winner, loser){
