@@ -17,9 +17,12 @@ def querytable():
         # sa.Column('AmountOfLosses', sa.Integer(), nullable=True),
         # sa.PrimaryKeyConstraint('id')
 
+def drop_matches():
+    return f"""DROP TABLE matches"""        
+
 def querymatches():
     return f"""CREATE TABLE IF NOT EXISTS matches (
-	id INT PRIMARY KEY,
+	id VARCHAR ( 100 ) PRIMARY KEY,
 	Skin_Id_Winner INT,
 	Skin_Id_Loser INT,
 	MatchDate DATE

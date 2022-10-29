@@ -7,6 +7,7 @@ import numpy as np
 import os
 from flask import request, jsonify
 from app import db
+import uuid
 
 import logging
 
@@ -53,17 +54,17 @@ class SkinMatchApi(Resource):
         skinWin = Skin.query.get(winner)
 
         #calculates new fide rating
-        eloWinner = elo(skinWin.RankingScore, expected(skinWin.RankingScore, skinLoss.RankingScore), 1)
-        eloLoser = elo(skinLoss.RankingScore, expected(skinLoss.RankingScore, skinWin.RankingScore), 0)
+        eloWinner = elo(skinWin.rankingscore, expected(skinWin.rankingscore, skinLoss.rankingscore), 1)
+        eloLoser = elo(skinLoss.rankingscore, expected(skinLoss.rankingscore, skinWin.rankingscore), 0)
 
         #update data for skins
-        skinWin.RankingScore = eloWinner
-        skinWin.AmountOfWins += 1
-        skinLoss.RankingScore = eloLoser
-        skinLoss.AmountOfLosses += 1
+        skinWin.rankingscore = eloWinner
+        skinWin.amountofwins += 1
+        skinLoss.rankingscore = eloLoser
+        skinLoss.amountoflosses += 1
 
         #input matchdata
-        match_data = Match(int(skinWin.id), int(skinLoss.id))
+        match_data = Match(uuid.uuid4().hex, int(skinWin.id), int(skinLoss.id))
         db.session.add(match_data)
         db.session.commit()
         return 'Update succesful'

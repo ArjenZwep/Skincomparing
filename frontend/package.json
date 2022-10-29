@@ -24,5 +24,6 @@
   "devDependencies": {
     "node-hot-loader": "^1.21.9",
     "webpack": "^5.74.0"
-  }
+  },
+  "proxy": "http://localhost:5000"
 }

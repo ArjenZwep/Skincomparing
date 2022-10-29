@@ -4,6 +4,7 @@ import Technologies from '../components/Technologies/Technologies';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
 import Comparison from "../components/Comparison/Comparison";
+import Statistics from '../components/Statistics/Statistics';
 
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
       </Section>
       <Technologies />
       <Acomplishments />
+      <Statistics />
     </Layout>
   );
 };

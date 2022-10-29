@@ -3,6 +3,7 @@ from flask_restful import Resource, Api
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from flask_migrate import Migrate
+from flask_cors import CORS
 import os
 import sqlite3
 import numpy as np
@@ -19,6 +20,7 @@ ma = Marshmallow()
 
 def create_app():
     app = Flask(__name__)
+    CORS(app, methods=['GET', 'POST'])
     app.config.from_object(config.by_name[os.getenv("FLASK_ENV", "dev")])
     
     from resources.skinmatch import SkinMatchApi
