@@ -1,0 +1,36 @@
+version: '3'
+services:
+  api:
+    container_name: api
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./api
+    volumes:
+      - "./api:/srv/flask_app"
+    ports:
+      - "5000:5000"
+    depends_on: 
+      - skinselector_database
+
+  client:
+    container_name: client
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./frontend
+    volumes:
+      - "/app/node_modules"
+      - "./frontend:/app"
+    ports:
+      - "3000:3000"
+
+  skinselector_database:
+    image: postgres
+    container_name: skinselector_database
+    volumes:
+      - "/var/lib/postgresql/data"
+    environment:
+      - POSTGRES_DB=skintable
+      - POSTGRES_USER=test
+      - POSTGRES_PASSWORD=Test123!
+    ports:
+      - "5432:5432"
