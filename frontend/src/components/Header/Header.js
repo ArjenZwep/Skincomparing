@@ -7,15 +7,15 @@ import { Container, Div1, Div2, NavLink} from './HeaderStyles';
 const Header = () =>  (
   <Container>
     <Div1>
-      <Link href="/">
-        <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <DiCssdeck size="3rem" /> <span>Portfolio</span>
-        </a>
-      </Link>
+      <li>
+        <Link href="#vote">
+          <NavLink>Compare</NavLink>
+        </Link>
+      </li>   
     </Div1>
     <Div2>
       <li>
-        <Link href="#Statistics">
+        <Link href="#stats">
           <NavLink>Statistics</NavLink>
         </Link>
       </li>   

@@ -6,13 +6,26 @@ const skinStyles = makeStyles(theme => ({
       width: "100%",
       display: "flex",
       flexDirection: "column",
-      alignItems: "center"
+      alignItems: "center",
+      backgroundColor: "rgb(33 45 69)"
 
     },
+
     skinImg: {
+      backgroundColor: "rgb(33 45 69)",
+      color: 'grey',
       position: 'flex',
       width: "100%",
-      height: "100%"
+      height: "100%",
+      borderRadius: '20px',
+      alignItems: 'center'
+    },
+
+    skinImage: {
+      display: 'block',
+      marginLeft: 'auto',
+      marginRight: 'auto',
+      width: 'fit-content'
     },
     cta: {
       backgroundColor: "black",
@@ -21,8 +34,7 @@ const skinStyles = makeStyles(theme => ({
       textAlign: "center"
     },
     skinName: {
-        fontSize: "20px",
-        textAlign: "center"
+      textAlign: 'center'
     }
 }));
 

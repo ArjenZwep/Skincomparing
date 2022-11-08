@@ -8,8 +8,8 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 import Skin from '../Skin/Skin'
 
 export default function Technologies(props) {
-  let [skinOne, setSkinOne] = useState({name: "Hextech Sejuani", imgurl: "https://www.mobafire.com/images/champion/skins/landscape/sejuani-hextech-762x.jpg", id: 0})
-  let [skinTwo, setSkinTwo] = useState({name: "Heartseeker Jinx", imgurl: "https://www.mobafire.com/images/champion/skins/landscape/jinx-heartseeker-762x.jpg", id: 0})
+  let [skinOne, setSkinOne] = useState({name: "", imgurl: "", id: 0})
+  let [skinTwo, setSkinTwo] = useState({name: "", imgurl: "", id: 0})
   //const baseUrl = 'http://host.docker.internal:5000'
   const baseUrl = 'http://localhost:5000'
   // Fetch two championsskins here
@@ -40,7 +40,7 @@ export default function Technologies(props) {
 
 
 return(
-  <Section id="tech">
+  <Section id="vote">
     <List>
       <ListItem>
         <ListContainer>

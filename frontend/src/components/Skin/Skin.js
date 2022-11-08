@@ -11,7 +11,9 @@ export default function Skin(props) {
                 {props.name}
                 </div>
             {/* <img src={process.env.PUBLIC_URL + '/'+props.imgname+'.jpg'} width="100%" height="100%"/> */}
-             <img src={props.imgname} width="100%" height="100%"/>
+            <div className={classes.skinImage}>
+             <img src={props.imgname} width="308px" height="560px" class="center"/>
+            </div>
         </div>
     )
 }

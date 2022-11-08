@@ -14,7 +14,6 @@ const Home = () => {
         <Hero />
       </Section>
       <Technologies />
-      <Acomplishments />
       <Statistics />
     </Layout>
   );
